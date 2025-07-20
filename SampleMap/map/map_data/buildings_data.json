@@ -1,0 +1,140 @@
+{
+    "buildings": [
+        {
+            "uniqueId": "fb4bf671-a94e-4c7a-b8f5-b3a7382ee82e",
+            "typeId": 1,
+            "x": 14,
+            "y": 23,
+            "itemName": "artists' co-living space",
+            "attributes": []
+        },
+        {
+            "uniqueId": "ef12f119-73a5-4d2f-8234-78e6a3fad707",
+            "typeId": 4,
+            "x": 68,
+            "y": 70,
+            "itemName": "Moreno family's house",
+            "attributes": []
+        },
+        {
+            "uniqueId": "054f1bcb-17a9-4151-b7b0-9c419d90237e",
+            "typeId": 3,
+            "x": 50,
+            "y": 70,
+            "itemName": "Tamara Taylor and Carmen Ortiz's house",
+            "attributes": []
+        },
+        {
+            "uniqueId": "5b49d34f-0013-4fa3-a261-0b342a50b7de",
+            "typeId": 2,
+            "x": 107,
+            "y": 25,
+            "itemName": "Oak Hill College",
+            "attributes": []
+        },
+        {
+            "uniqueId": "be88621f-ce6a-4825-92d2-91094b834006",
+            "typeId": 7,
+            "x": 101,
+            "y": 48,
+            "itemName": "Dorm for Oak Hill College",
+            "attributes": []
+        },
+        {
+            "uniqueId": "79b4a4d7-dbe4-49f5-b161-97bd28553dd7",
+            "typeId": 6,
+            "x": 47,
+            "y": 45,
+            "itemName": "The Willows Market and Pharmacy",
+            "attributes": []
+        },
+        {
+            "uniqueId": "868d84cd-0472-4786-94fb-da7f81191d3b",
+            "typeId": 5,
+            "x": 64,
+            "y": 24,
+            "itemName": "Ryan Park's apartment",
+            "attributes": []
+        },
+        {
+            "uniqueId": "437123ea-91bb-45fd-9be9-5de6660d8fba",
+            "typeId": 5,
+            "x": 92,
+            "y": 23,
+            "itemName": "Carlos Gomez's apartment",
+            "attributes": []
+        },
+        {
+            "uniqueId": "4bbe8d1c-a91e-48b2-bf02-dd4be69f1ab2",
+            "typeId": 5,
+            "x": 85,
+            "y": 23,
+            "itemName": "Giorgio Rossi's apartment",
+            "attributes": []
+        },
+        {
+            "uniqueId": "5239438c-3278-4dd3-bbcf-9bcfd469c8ba",
+            "typeId": 8,
+            "x": 19,
+            "y": 65,
+            "itemName": "Adam Smith's house",
+            "attributes": []
+        },
+        {
+            "uniqueId": "b5f91fcc-070a-4a03-8cef-edafeb43fab5",
+            "typeId": 8,
+            "x": 26,
+            "y": 65,
+            "itemName": "Yuriko Yamamoto's house",
+            "attributes": []
+        },
+        {
+            "uniqueId": "9da11c0e-5865-4aa9-a23e-514c9950c1a5",
+            "typeId": 8,
+            "x": 33,
+            "y": 65,
+            "itemName": "Moore family's house",
+            "attributes": []
+        },
+        {
+            "uniqueId": "7b454184-46be-4b3a-aa75-f938cb8dd116",
+            "typeId": 9,
+            "x": 71,
+            "y": 24,
+            "itemName": "Hobbs Cafe",
+            "attributes": []
+        },
+        {
+            "uniqueId": "78aaed79-44d3-47a9-adb8-aa41a58a5e8b",
+            "typeId": 10,
+            "x": 86,
+            "y": 70,
+            "itemName": "Lin family's house",
+            "attributes": []
+        },
+        {
+            "uniqueId": "79846e30-1df9-40e1-9667-3a4543130931",
+            "typeId": 12,
+            "x": 74,
+            "y": 45,
+            "itemName": "Harvey Oak Supply Store",
+            "attributes": []
+        },
+        {
+            "uniqueId": "50f4d5c8-8447-466c-85c8-a665f2fb0b3c",
+            "typeId": 13,
+            "x": 20,
+            "y": 48,
+            "itemName": "park",
+            "attributes": []
+        },
+        {
+            "uniqueId": "191df7bb-a07e-4207-a0d4-a05de2588dc9",
+            "typeId": 14,
+            "x": 50,
+            "y": 24,
+            "itemName": "The Rose and Crown Pub",
+            "attributes": []
+        }
+    ]
+}

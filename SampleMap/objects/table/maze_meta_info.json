@@ -1,0 +1,8 @@
+{
+    "typeId": 160,
+    "world_name": "table",
+    "maze_width": 2,
+    "maze_height": 2,
+    "sq_tile_size": 32.0,
+    "special_constraint": ""
+}

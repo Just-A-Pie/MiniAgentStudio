@@ -1,0 +1,4424 @@
+{
+    "objects": [
+        {
+            "uniqueId": "0463a873-5a40-42cf-82d5-26b17f98b4a4",
+            "typeId": 2,
+            "x": -1,
+            "y": -1,
+            "itemName": "bed",
+            "attributes": []
+        },
+        {
+            "uniqueId": "a07bbc80-4e9d-422d-859c-eb225956221e",
+            "typeId": 6,
+            "x": -1,
+            "y": -1,
+            "itemName": "bed3",
+            "attributes": []
+        },
+        {
+            "uniqueId": "ea5983c3-03c7-4c96-a1e0-ad7138e8ba38",
+            "typeId": 6,
+            "x": -1,
+            "y": -1,
+            "itemName": "bed3",
+            "attributes": []
+        },
+        {
+            "uniqueId": "89ef7d6b-e145-407e-9f39-7ba8b514d707",
+            "typeId": 10,
+            "x": -1,
+            "y": -1,
+            "itemName": "apple",
+            "attributes": []
+        },
+        {
+            "uniqueId": "429b9395-8f47-4fc4-9300-9dfaa6395110",
+            "typeId": 10,
+            "x": -1,
+            "y": -1,
+            "itemName": "apple",
+            "attributes": []
+        },
+        {
+            "uniqueId": "7ec7daaf-37c9-4654-b054-5a2716fd81e3",
+            "typeId": 10,
+            "x": -1,
+            "y": -1,
+            "itemName": "apple3",
+            "attributes": []
+        },
+        {
+            "uniqueId": "b3a666e6-bead-46c3-8a3b-f0f3e344cca1",
+            "typeId": 5,
+            "x": -1,
+            "y": -1,
+            "itemName": "harp",
+            "attributes": []
+        },
+        {
+            "uniqueId": "465e803e-de4a-425b-8066-7a00ec58a9fa",
+            "typeId": 5,
+            "x": -1,
+            "y": -1,
+            "itemName": "harp",
+            "attributes": []
+        },
+        {
+            "uniqueId": "cb9ef27c-f750-453b-926f-47c3c7d918a2",
+            "typeId": 10,
+            "x": -1,
+            "y": -1,
+            "itemName": "apple",
+            "attributes": []
+        },
+        {
+            "uniqueId": "59465b51-0909-4705-9f66-7312774c3ede",
+            "typeId": 6,
+            "x": -1,
+            "y": -1,
+            "itemName": "bathtub",
+            "attributes": []
+        },
+        {
+            "uniqueId": "991597b9-a9fb-41e0-8138-95d70bff61e8",
+            "typeId": 10,
+            "x": -1,
+            "y": -1,
+            "itemName": "apple",
+            "attributes": []
+        },
+        {
+            "uniqueId": "c6eb4180-be26-4dd7-9b13-27c6d7a4968f",
+            "typeId": 10,
+            "x": -1,
+            "y": -1,
+            "itemName": "apple",
+            "attributes": []
+        },
+        {
+            "uniqueId": "da2baf45-49a4-479c-9ed5-441245530736",
+            "typeId": 10,
+            "x": -1,
+            "y": -1,
+            "itemName": "apple123",
+            "attributes": [
+                {
+                    "key": "quantity",
+                    "value": "2"
+                }
+            ]
+        },
+        {
+            "uniqueId": "b1bb1a6f-4f59-4ffd-ac99-2702549ef6ee",
+            "typeId": 6,
+            "x": -1,
+            "y": -1,
+            "itemName": "bathtub",
+            "attributes": []
+        },
+        {
+            "uniqueId": "1c3c0eec-1067-4f97-8716-ef15b72b01f4",
+            "typeId": 6,
+            "x": -1,
+            "y": -1,
+            "itemName": "bathtub",
+            "attributes": []
+        },
+        {
+            "uniqueId": "ae045613-1522-4ad3-8235-c3fa4497f9a2",
+            "typeId": 6,
+            "x": -1,
+            "y": -1,
+            "itemName": "bathtub",
+            "attributes": []
+        },
+        {
+            "uniqueId": "606eedf7-b944-421e-acf4-fa642600d8ef",
+            "typeId": 3,
+            "x": -1,
+            "y": -1,
+            "itemName": "bed2",
+            "attributes": []
+        },
+        {
+            "uniqueId": "10c90dbf-6592-4c21-bf6e-fe74096a017a",
+            "typeId": 10,
+            "x": -1,
+            "y": -1,
+            "itemName": "apple",
+            "attributes": []
+        },
+        {
+            "uniqueId": "28b85523-b92f-435d-b6e3-02d30b3fd740",
+            "typeId": 10,
+            "x": -1,
+            "y": -1,
+            "itemName": "apple",
+            "attributes": []
+        },
+        {
+            "uniqueId": "1890221a-9dc4-4704-b112-2e0c0a198dff",
+            "typeId": 10,
+            "x": -1,
+            "y": -1,
+            "itemName": "apple",
+            "attributes": []
+        },
+        {
+            "uniqueId": "33721bb4-7011-4a92-b89c-803fd3de7e9d",
+            "typeId": 2,
+            "x": -1,
+            "y": -1,
+            "itemName": "bed",
+            "attributes": []
+        },
+        {
+            "uniqueId": "fc9ec13b-eb3b-4f28-a609-54402de22d82",
+            "typeId": 11,
+            "x": -1,
+            "y": -1,
+            "itemName": "blanket",
+            "attributes": []
+        },
+        {
+            "uniqueId": "da56c612-3fb2-49b6-8646-e7cb4c7ad1f2",
+            "typeId": 2,
+            "x": 15,
+            "y": 24,
+            "itemName": "IR's bed",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "034c31df-c6c7-442d-bd8b-dc0707b25bac,78e59e31-c3f9-4459-9c47-6721f8dbab34"
+                }
+            ]
+        },
+        {
+            "uniqueId": "6d91ba99-99de-4943-95ea-919baf5dd338",
+            "typeId": 2,
+            "x": 25,
+            "y": 24,
+            "itemName": "bed",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "8ec04830-3d66-4384-bffa-63c88ec3196a,565f0826-b78c-468b-a347-d4dbfa293493"
+                }
+            ]
+        },
+        {
+            "uniqueId": "d3d805bd-c579-4c6a-8085-433d6948bbc1",
+            "typeId": 2,
+            "x": 35,
+            "y": 24,
+            "itemName": "bed",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "f649f3d3-d236-42c2-be53-568808c67836,0d6452b5-0f76-46d7-a8d2-494eebb1ccaa"
+                }
+            ]
+        },
+        {
+            "uniqueId": "f3242406-d63a-45b5-ac8d-6530e1f60f8f",
+            "typeId": 3,
+            "x": 25,
+            "y": 37,
+            "itemName": "bed",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "2fb220f9-301d-4aa1-807d-eec750e2d9e4,a7e3f5fe-2a93-4d26-91f1-0794babb2f67"
+                }
+            ]
+        },
+        {
+            "uniqueId": "84829ae2-7159-4bdb-9d37-37f16f5b3276",
+            "typeId": 36,
+            "x": 17,
+            "y": 24,
+            "itemName": "closet2",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "adafc720-9a10-4b7e-9f7a-581b5a572a4e,9a898705-2327-4c44-bdd7-06b8cd161cc5"
+                }
+            ]
+        },
+        {
+            "uniqueId": "47150fae-22c9-4da9-8df9-4bc903a23228",
+            "typeId": 36,
+            "x": 27,
+            "y": 24,
+            "itemName": "closet2",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "15f307b9-9cdc-49d5-8804-2add515f0815,158c182a-72b2-4ea6-9822-892295829e1b"
+                }
+            ]
+        },
+        {
+            "uniqueId": "8b3bcf41-c17b-4552-b330-b4e99dfb5069",
+            "typeId": 17,
+            "x": 25,
+            "y": 34,
+            "itemName": "closet",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "6a007c2e-8527-4b52-b44e-63c79d543b07,8cd6c06a-a607-433a-a0e9-89b68ed8f02a"
+                }
+            ]
+        },
+        {
+            "uniqueId": "f719aa9d-7738-464e-b72a-3c2aa4a71bdc",
+            "typeId": 17,
+            "x": 41,
+            "y": 24,
+            "itemName": "closet",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "a77a96cf-35ec-4330-afc2-e60387030840,af077255-1657-4368-a15b-f9388adf84ff"
+                }
+            ]
+        },
+        {
+            "uniqueId": "3cd6beec-60da-4f00-ba44-5bd49be3c9da",
+            "typeId": 4,
+            "x": 36,
+            "y": 34,
+            "itemName": "desk",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "c15fe2de-eb49-4513-85b7-b2b2527d2c00,162b3648-4ce0-40da-ad89-05c5d3581642"
+                }
+            ]
+        },
+        {
+            "uniqueId": "71c85f92-44d0-4243-8885-7bb9cf4eb445",
+            "typeId": 30,
+            "x": 34,
+            "y": 37,
+            "itemName": "sofa",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "5dcf652c-69b4-4d5c-9dd9-33349410ecd6,7dce04dc-6ac7-4c05-9f1c-a1e7641fee45"
+                }
+            ]
+        },
+        {
+            "uniqueId": "6c07cd38-bc50-49e2-a9f6-ffbff9ce1315",
+            "typeId": 24,
+            "x": 39,
+            "y": 32,
+            "itemName": "kitchen_sink",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "521171bb-2651-478e-a8a0-adf19f86c22d"
+                }
+            ]
+        },
+        {
+            "uniqueId": "824b561e-5170-475c-ac86-665c9b818504",
+            "typeId": 6,
+            "x": 20,
+            "y": 24,
+            "itemName": "bathtub",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "eba30d5a-0ef1-45ac-8449-1f2b2c93279f,df1f301b-0fca-4f3c-8e17-e23754db4fa8"
+                }
+            ]
+        },
+        {
+            "uniqueId": "5ba20c8e-2a7f-4a93-ab6a-63ce28a5347f",
+            "typeId": 6,
+            "x": 30,
+            "y": 24,
+            "itemName": "bathtub",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "b69660bd-31ab-4662-9128-55f723388d7e"
+                }
+            ]
+        },
+        {
+            "uniqueId": "a73c6d94-d109-429f-9dd4-73a103b03177",
+            "typeId": 6,
+            "x": 41,
+            "y": 27,
+            "itemName": "bathtub",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "6b14fba1-5aff-44e0-90bd-b2334e13ff8a,9d9d258e-4041-4f5a-8860-a4545c84d09f"
+                }
+            ]
+        },
+        {
+            "uniqueId": "ca76dff7-0885-41e1-b269-52000301d137",
+            "typeId": 6,
+            "x": 30,
+            "y": 37,
+            "itemName": "bathtub",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "9f29b034-1654-4b41-8236-e9591b6f6f18,370bc604-2e41-4faa-b66a-1dfa112454a1"
+                }
+            ]
+        },
+        {
+            "uniqueId": "20765610-9aa1-4250-ae60-da5b943804a4",
+            "typeId": 6,
+            "x": 20,
+            "y": 37,
+            "itemName": "bathtub",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "5f1fd276-620d-4d41-973f-a3d8bd724669,7d680cdb-5218-414d-9d31-b67d5174cedf"
+                }
+            ]
+        },
+        {
+            "uniqueId": "3bc4b551-43ad-41fd-8563-7a5ad27ac69c",
+            "typeId": 24,
+            "x": 21,
+            "y": 29,
+            "itemName": "sink",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "aec87980-b1b4-4741-8bb3-846d6cdec503"
+                }
+            ]
+        },
+        {
+            "uniqueId": "5ff4f2d2-a1aa-4930-adde-ed935d781799",
+            "typeId": 24,
+            "x": 31,
+            "y": 29,
+            "itemName": "sink",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "6975c691-9d4f-4302-8788-cee5ab65d00f"
+                }
+            ]
+        },
+        {
+            "uniqueId": "8d453e33-bfe1-41f3-b1a3-3b6d4afd4bb8",
+            "typeId": 18,
+            "x": 38,
+            "y": 36,
+            "itemName": "common_room_table",
+            "attributes": []
+        },
+        {
+            "uniqueId": "c1804cbd-e3f6-4e8e-a8c7-ca36525e7eab",
+            "typeId": 18,
+            "x": 38,
+            "y": 34,
+            "itemName": "common_room_table",
+            "attributes": []
+        },
+        {
+            "uniqueId": "412a75cc-8fd4-464d-8455-dd1e795dad7b",
+            "typeId": 36,
+            "x": 15,
+            "y": 34,
+            "itemName": "closet2",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "8a6406bc-be2a-49fc-b16a-061a75ede2b0,03637a3e-1549-4fca-b8bd-0018323dbcf4"
+                }
+            ]
+        },
+        {
+            "uniqueId": "712f484c-a14b-48e7-b0d6-a70d84043b94",
+            "typeId": 16,
+            "x": 87,
+            "y": 71,
+            "itemName": "bookshelf",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "d3d7811d-506a-43cf-8254-c2ecc84a81a9,e8ebc43b-d375-4813-a6bb-fb930626e77c"
+                }
+            ]
+        },
+        {
+            "uniqueId": "38193f05-a05d-45c9-b075-b27b9ded878f",
+            "typeId": 16,
+            "x": 69,
+            "y": 71,
+            "itemName": "bookshelf",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "1265cf05-da84-4b5b-9950-82a9989d3888,b73b4da6-b2a3-4eed-9151-395ea25cc6ea"
+                }
+            ]
+        },
+        {
+            "uniqueId": "e714a368-b247-4ff8-8be4-8e24b5bc7d4c",
+            "typeId": 33,
+            "x": 54,
+            "y": 80,
+            "itemName": "bed",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "b6afac84-9325-45ae-b77c-9c888698636a,e3e450d1-9441-4e39-be41-a285e1f7189d"
+                }
+            ]
+        },
+        {
+            "uniqueId": "20b361c2-85d6-43e8-837a-478f755d1987",
+            "typeId": 33,
+            "x": 57,
+            "y": 80,
+            "itemName": "bed",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "7af7bb7b-10fa-43ed-a2d5-6f5aac81b6d1,ef20962c-e567-446c-a290-a35fc9f9015e"
+                }
+            ]
+        },
+        {
+            "uniqueId": "dacf4c3b-8594-4f40-b85a-1ae2140c5031",
+            "typeId": 33,
+            "x": 72,
+            "y": 80,
+            "itemName": "bed",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "9ab199fe-7b17-4e3b-88d4-9927eaa9733d,3cad7109-9e49-4612-854e-0f1bef133aa9"
+                }
+            ]
+        },
+        {
+            "uniqueId": "3f35fdd9-28e4-4294-9fef-4f4243b415c1",
+            "typeId": 3,
+            "x": 75,
+            "y": 80,
+            "itemName": "bed",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "5b1575c4-45a7-43f7-9a14-8a51593acd09,8dc20587-592d-4aa9-b2a0-569419fb08df"
+                }
+            ]
+        },
+        {
+            "uniqueId": "f8ade614-c699-4b09-a8fa-5a9805da4080",
+            "typeId": 2,
+            "x": 90,
+            "y": 80,
+            "itemName": "bed",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "f4daa5d5-5f91-4e57-8d0f-99c2e3170bd2"
+                }
+            ]
+        },
+        {
+            "uniqueId": "29f7776b-64f3-461f-97b7-dbb1999f23e9",
+            "typeId": 2,
+            "x": 93,
+            "y": 80,
+            "itemName": "bed",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "c5ef2d46-baaa-4183-a4a5-b6dbf4493fdb,607981c5-9e97-4f00-8bfc-09ddad48aa22"
+                }
+            ]
+        },
+        {
+            "uniqueId": "f0ddd5b1-7814-48ad-b6b2-ec6c5ff21c0a",
+            "typeId": 6,
+            "x": 96,
+            "y": 72,
+            "itemName": "bathtub",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "cedc4989-01c0-4713-bdf6-571770d2165b"
+                }
+            ]
+        },
+        {
+            "uniqueId": "a3651c18-8c25-41fd-a0b6-4cc682de4fad",
+            "typeId": 6,
+            "x": 60,
+            "y": 73,
+            "itemName": "bathtub",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "77f58062-a034-41a2-a5e7-211724fdbc57"
+                }
+            ]
+        },
+        {
+            "uniqueId": "0fa4ad05-2376-4e2c-96e9-f1013bcd5bd8",
+            "typeId": 6,
+            "x": 78,
+            "y": 73,
+            "itemName": "bathtub",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "0beeb0e5-14b0-4417-ab08-dc422c6691e5"
+                }
+            ]
+        },
+        {
+            "uniqueId": "98fcd41b-90d0-459b-ac78-e38c80f6d5cd",
+            "typeId": 17,
+            "x": 80,
+            "y": 80,
+            "itemName": "closet",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "662a8670-0b01-4085-94ad-6a99eeca3e45,4d0ac006-1905-4c08-8703-32a14ef7c998"
+                }
+            ]
+        },
+        {
+            "uniqueId": "3b9ccbc3-0a94-4afe-9a55-13974022d15e",
+            "typeId": 17,
+            "x": 98,
+            "y": 80,
+            "itemName": "closet",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "3947e614-7ff3-4e41-8711-9770e82bd538,3d0acea5-88a7-4ee9-9902-11542fc74ef6"
+                }
+            ]
+        },
+        {
+            "uniqueId": "0c0e8bc5-86da-47a1-b90c-05d90d0a5ef1",
+            "typeId": 17,
+            "x": 69,
+            "y": 81,
+            "itemName": "closet",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "2d7b90bb-b324-49f2-a26d-e9c03a4cbd3d,12d83632-0fc1-4426-9ea8-e658e79125ee"
+                }
+            ]
+        },
+        {
+            "uniqueId": "5fdba857-1fd7-4a6b-8ca4-9af0fff9d395",
+            "typeId": 17,
+            "x": 87,
+            "y": 81,
+            "itemName": "closet",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "34bbd39c-1fbb-485b-9415-b0c9f9f5ab1a,51baea16-6582-457c-8287-3866d6076b3b"
+                }
+            ]
+        },
+        {
+            "uniqueId": "8c0ffed3-692b-4caf-83c6-247a67c74689",
+            "typeId": 17,
+            "x": 51,
+            "y": 81,
+            "itemName": "closet",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "7021d8e4-3c95-4cbf-80dd-860a3a160761,212a155a-c63b-4c60-b9fb-f11056afdc97"
+                }
+            ]
+        },
+        {
+            "uniqueId": "69bb0ca4-b14a-41b8-9f89-458a8213d93a",
+            "typeId": 4,
+            "x": 55,
+            "y": 74,
+            "itemName": "desk",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "4a39324d-4f0a-4987-8399-8d24df6f6b5c"
+                }
+            ]
+        },
+        {
+            "uniqueId": "5480b5f8-6a35-4d7e-907e-16c45d709f5c",
+            "typeId": 4,
+            "x": 72,
+            "y": 75,
+            "itemName": "desk",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "beba414e-6b8a-4687-a5f2-2f1f3a6a2d4e,deb4f674-0328-4092-8688-b5efdabcc9a5"
+                }
+            ]
+        },
+        {
+            "uniqueId": "ed36c077-24e7-471e-a386-0ec9404a1053",
+            "typeId": 4,
+            "x": 90,
+            "y": 75,
+            "itemName": "desk",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "339cb9be-7bbc-4aa4-96a0-0ced19c9842a,fb1b0670-c2dc-40bb-b098-1599ebf43f11"
+                }
+            ]
+        },
+        {
+            "uniqueId": "368ee719-2206-4e54-b40b-35de3e119b55",
+            "typeId": 24,
+            "x": 75,
+            "y": 72,
+            "itemName": "kitchen sink",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "7d391923-481e-4b1a-8be3-81548b749810"
+                }
+            ]
+        },
+        {
+            "uniqueId": "5407e7f4-2eab-4621-b75b-4af27056aa31",
+            "typeId": 24,
+            "x": 93,
+            "y": 72,
+            "itemName": "kitchen sink",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "952690a8-b3fe-47b2-92b6-20cad4530040"
+                }
+            ]
+        },
+        {
+            "uniqueId": "e5a142c2-6e86-42c0-8c40-80e3b8dbc45f",
+            "typeId": 24,
+            "x": 57,
+            "y": 72,
+            "itemName": "sink",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "026a04b9-0219-463e-b821-f204067b5ff4"
+                }
+            ]
+        },
+        {
+            "uniqueId": "0ebccbe7-8ec9-47d2-bf46-e809a76288e3",
+            "typeId": 5,
+            "x": 69,
+            "y": 74,
+            "itemName": "harp",
+            "attributes": []
+        },
+        {
+            "uniqueId": "3f1c1fc2-7a21-4786-ad93-c2b4315f1ac8",
+            "typeId": 18,
+            "x": 88,
+            "y": 75,
+            "itemName": "common_room_table",
+            "attributes": []
+        },
+        {
+            "uniqueId": "4728103c-3a2d-4612-9f0e-8bf8631eb337",
+            "typeId": 18,
+            "x": 74,
+            "y": 75,
+            "itemName": "common_room_table",
+            "attributes": []
+        },
+        {
+            "uniqueId": "3e9f1e31-3271-4cc9-a772-1ae1bbaea836",
+            "typeId": 18,
+            "x": 53,
+            "y": 76,
+            "itemName": "common_room_table",
+            "attributes": []
+        },
+        {
+            "uniqueId": "4af0392d-9c58-48f6-b954-01168ab76c3c",
+            "typeId": 16,
+            "x": 51,
+            "y": 71,
+            "itemName": "bookshelf",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "37077c36-f0fe-4c68-9112-cfc3b01a98a4,0bcfe34a-cb04-40ae-8488-3de814c0ff1c"
+                }
+            ]
+        },
+        {
+            "uniqueId": "1eb690a7-46ad-4635-b428-fb1d235dde0b",
+            "typeId": 28,
+            "x": 41,
+            "y": 33,
+            "itemName": "refrigerator",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "bb6a1530-5ed0-4db2-8eaa-fa4fe888dac3,e1c0f92a-15db-4c34-8bb1-7fd8b9066aaa"
+                }
+            ]
+        },
+        {
+            "uniqueId": "df1ba8b7-72eb-4179-abfa-61afeacbacea",
+            "typeId": 31,
+            "x": 22,
+            "y": 38,
+            "itemName": "toilet",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "0996cfd1-5b07-484b-802e-e7f6eb8adc71,e34f7c6f-e142-4175-8bc7-5610ce3e12e8"
+                }
+            ]
+        },
+        {
+            "uniqueId": "62769338-74c6-40ae-9455-c94a6435073d",
+            "typeId": 31,
+            "x": 32,
+            "y": 38,
+            "itemName": "toilet",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "180e26e2-3a6d-4d11-8832-2b15b749c00c,069df3c1-266d-427f-adfc-024bfd1cd262"
+                }
+            ]
+        },
+        {
+            "uniqueId": "edca9568-aa30-450b-88fa-96cffd839830",
+            "typeId": 31,
+            "x": 39,
+            "y": 28,
+            "itemName": "toilet",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "9e6a09f2-19db-404e-955e-6186a57bd4f8,2a205fa2-a11b-482d-bfe4-674de53e78bd"
+                }
+            ]
+        },
+        {
+            "uniqueId": "e80b2303-a926-44fe-bac6-245a89a4f75f",
+            "typeId": 31,
+            "x": 32,
+            "y": 25,
+            "itemName": "toilet",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "901c408d-8799-4219-9360-fcf320a812a9,d5358352-30a6-41ae-90b6-108dc4066f9a"
+                }
+            ]
+        },
+        {
+            "uniqueId": "93255892-24fd-4223-89de-87eda3422dc1",
+            "typeId": 31,
+            "x": 22,
+            "y": 25,
+            "itemName": "toilet",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "1d3d489c-9c91-4fbd-bee2-3e6e7f21ab3f,fd30d796-57f7-495e-9d3b-d572f526c685"
+                }
+            ]
+        },
+        {
+            "uniqueId": "41ad10fa-f287-4a12-95c3-164b65d25d3e",
+            "typeId": 15,
+            "x": 109,
+            "y": 26,
+            "itemName": "blackboard",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "5f66040e-f062-45f6-acb3-df4162b5b908"
+                }
+            ]
+        },
+        {
+            "uniqueId": "11843ff7-9cab-4dd3-8f8c-8f380c4ff10f",
+            "typeId": 15,
+            "x": 111,
+            "y": 26,
+            "itemName": "blackboard",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "db85d8ee-82b3-41a9-bcfa-e1c827e69b3c"
+                }
+            ]
+        },
+        {
+            "uniqueId": "490791af-003e-47fe-b2f4-4c3cf55c79ba",
+            "typeId": 25,
+            "x": 112,
+            "y": 29,
+            "itemName": "library_table",
+            "attributes": []
+        },
+        {
+            "uniqueId": "8c3bfde0-4651-4b51-9ff3-542ee86cd245",
+            "typeId": 25,
+            "x": 112,
+            "y": 31,
+            "itemName": "library_table",
+            "attributes": []
+        },
+        {
+            "uniqueId": "79fe240d-cec4-4c0c-a4e5-fa54e53a160a",
+            "typeId": 25,
+            "x": 112,
+            "y": 33,
+            "itemName": "library_table",
+            "attributes": []
+        },
+        {
+            "uniqueId": "f6b0c689-0b62-4265-9d1f-4282a5e94e76",
+            "typeId": 25,
+            "x": 114,
+            "y": 33,
+            "itemName": "library_table",
+            "attributes": []
+        },
+        {
+            "uniqueId": "36f9a6e4-8e86-4a27-a39d-ec22d7c57e3a",
+            "typeId": 25,
+            "x": 114,
+            "y": 31,
+            "itemName": "library_table",
+            "attributes": []
+        },
+        {
+            "uniqueId": "1534f03e-5ff6-455e-8446-e1aca156f566",
+            "typeId": 25,
+            "x": 114,
+            "y": 29,
+            "itemName": "library_table",
+            "attributes": []
+        },
+        {
+            "uniqueId": "4c7d25ef-c2af-471a-ba94-a8dc7c2e4cbb",
+            "typeId": 33,
+            "x": 21,
+            "y": 72,
+            "itemName": "bed",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "229624dd-1051-46cf-ac0f-06ae456c0881,2a3ef340-d898-4643-a475-ea0b25acb48a"
+                }
+            ]
+        },
+        {
+            "uniqueId": "a571195b-2136-4c0a-9bc8-c3f6e620c599",
+            "typeId": 33,
+            "x": 27,
+            "y": 72,
+            "itemName": "bed",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "44e05e63-3caa-4e50-b8a7-26c51857bcc1,362fc06f-8281-4937-9667-92f25593bed2"
+                }
+            ]
+        },
+        {
+            "uniqueId": "3497a55e-8e19-4661-888d-9d25d34653cc",
+            "typeId": 3,
+            "x": 34,
+            "y": 72,
+            "itemName": "bed",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "3f095c73-9123-4070-a593-23abdd202464,0c84f7a3-6b2d-4ee5-9c93-2d74bfdd2fe0"
+                }
+            ]
+        },
+        {
+            "uniqueId": "964c3b8a-4bdc-43af-b407-48554231ecce",
+            "typeId": 6,
+            "x": 34,
+            "y": 78,
+            "itemName": "bathtub",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "cd92d7fe-caf4-4da7-92a8-40e5d2334044"
+                }
+            ]
+        },
+        {
+            "uniqueId": "8957e76e-9e95-4e29-a7f1-8f64eb98fc17",
+            "typeId": 6,
+            "x": 27,
+            "y": 78,
+            "itemName": "bathtub",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "2fde63c4-5b10-485f-adfd-44e95b6a9d8b"
+                }
+            ]
+        },
+        {
+            "uniqueId": "4e0844ea-86af-4c43-b229-99892e465295",
+            "typeId": 6,
+            "x": 20,
+            "y": 78,
+            "itemName": "bathtub",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "5b72efe5-0bb6-4f2b-be82-0aa74b2509be"
+                }
+            ]
+        },
+        {
+            "uniqueId": "58a0f9e1-c00c-48cc-9a06-c6928b30fe1a",
+            "typeId": 36,
+            "x": 22,
+            "y": 68,
+            "itemName": "closet2",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "9f5110b2-82ab-40b1-a803-6970136f2dee"
+                }
+            ]
+        },
+        {
+            "uniqueId": "00319151-e3c9-487d-8826-e57d7b47c141",
+            "typeId": 36,
+            "x": 29,
+            "y": 68,
+            "itemName": "closet2",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "d6faa13e-f7c1-4ecb-9ef0-e47f74d20bd7"
+                }
+            ]
+        },
+        {
+            "uniqueId": "baae1017-5609-4543-9474-e27effce252e",
+            "typeId": 36,
+            "x": 36,
+            "y": 68,
+            "itemName": "closet2",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "2fc8f518-53b2-4c43-a889-1a6e3ca8ec2d"
+                }
+            ]
+        },
+        {
+            "uniqueId": "29eb968e-3f51-4551-931a-390eb27a23d8",
+            "typeId": 28,
+            "x": 30,
+            "y": 71,
+            "itemName": "refrigerator",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "086f98e2-7d21-4542-9915-ad223f2bee73,16f78de2-22e5-4ab4-bd0b-324b32289e6c"
+                }
+            ]
+        },
+        {
+            "uniqueId": "1ea89d90-00a0-49c9-9aa9-7669d22524a2",
+            "typeId": 28,
+            "x": 37,
+            "y": 71,
+            "itemName": "refrigerator",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "d032a090-dde2-4349-b642-32504e3072f5,4406e392-3a30-45f4-9e86-4c5eefa92213"
+                }
+            ]
+        },
+        {
+            "uniqueId": "3660eada-4ce3-4c46-b1c1-844a943a5ca8",
+            "typeId": 28,
+            "x": 23,
+            "y": 71,
+            "itemName": "refrigerator",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "3ab7a9c4-6519-41dd-81b0-1726ea8ab66f,05b0a91d-b75c-4c02-9a5b-d30f84297f52"
+                }
+            ]
+        },
+        {
+            "uniqueId": "0b4bbdfb-d3cf-41ca-b2d2-be9cc40eb368",
+            "typeId": 31,
+            "x": 24,
+            "y": 79,
+            "itemName": "toilet",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "cb1c5e00-da09-465f-b723-3a9e4efe5804,93de969a-3df7-4b61-85c0-53e1865a815f"
+                }
+            ]
+        },
+        {
+            "uniqueId": "377e4636-cf8d-48f9-b926-73423b964476",
+            "typeId": 31,
+            "x": 38,
+            "y": 79,
+            "itemName": "toilet",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "39ec06f5-16be-4018-a5dc-6dc9fe9afeff,0187b4c9-9b91-4628-b114-1bbd7e859fa9"
+                }
+            ]
+        },
+        {
+            "uniqueId": "0a6652bb-b727-4702-bb7d-03823128bb02",
+            "typeId": 31,
+            "x": 31,
+            "y": 79,
+            "itemName": "toilet",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "38c61c80-302f-41a0-b41a-50c29f8b0fdc,aea34c38-ff59-45bf-aec9-c1b139df65c6"
+                }
+            ]
+        },
+        {
+            "uniqueId": "779ba771-560f-4bd9-9948-717942784644",
+            "typeId": 24,
+            "x": 23,
+            "y": 74,
+            "itemName": "kitchen sink",
+            "attributes": []
+        },
+        {
+            "uniqueId": "aa0af980-edfb-4451-b2d8-8362e50000ad",
+            "typeId": 24,
+            "x": 30,
+            "y": 78,
+            "itemName": "bathroom sink",
+            "attributes": []
+        },
+        {
+            "uniqueId": "f40056f1-8a17-43eb-955a-5bb892ec7a5e",
+            "typeId": 24,
+            "x": 37,
+            "y": 78,
+            "itemName": "kitchen_sink",
+            "attributes": []
+        },
+        {
+            "uniqueId": "40786499-da89-457e-9644-bdc5bcddb703",
+            "typeId": 5,
+            "x": 118,
+            "y": 26,
+            "itemName": "harp",
+            "attributes": []
+        },
+        {
+            "uniqueId": "59a95402-a53e-4d52-a236-4812cce1bc5b",
+            "typeId": 16,
+            "x": 120,
+            "y": 27,
+            "itemName": "bookshelf",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "942c37e8-66c5-4301-9f51-8a448657deed,1a2e5f2c-71a5-43a4-9422-93bfcbb994b7"
+                }
+            ]
+        },
+        {
+            "uniqueId": "ab048eea-4057-4d70-808f-7a1d1fa52088",
+            "typeId": 3,
+            "x": 51,
+            "y": 26,
+            "itemName": "bed",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "8cc269bc-1d90-42ab-a570-323d1403b5a8,5d5137a0-3bd9-4707-ba22-ffb22e38f707"
+                }
+            ]
+        },
+        {
+            "uniqueId": "1e66eaaf-edd2-4f48-955a-5bda8304d91c",
+            "typeId": 2,
+            "x": 72,
+            "y": 25,
+            "itemName": "IR's bed",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "b1c8f358-aed6-450b-8766-9549b6610267"
+                }
+            ]
+        },
+        {
+            "uniqueId": "5da50563-a144-4432-ae07-1ff567d02edc",
+            "typeId": 2,
+            "x": 122,
+            "y": 50,
+            "itemName": "bed",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "5bea67c2-69d3-4b30-8a67-8205bafff29b,b24c1f04-f460-4b57-bac9-a1ef00200c23"
+                }
+            ]
+        },
+        {
+            "uniqueId": "8f2617d8-5d19-4d71-a5c1-ee8b1694f703",
+            "typeId": 2,
+            "x": 118,
+            "y": 59,
+            "itemName": "bed",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "dce4f387-1942-4113-9a22-f05ae5c763a6,9b6b6acc-02cd-4eb7-9631-9951386611ca"
+                }
+            ]
+        },
+        {
+            "uniqueId": "d6ff7d47-e8f4-4194-b828-14839691df93",
+            "typeId": 6,
+            "x": 60,
+            "y": 25,
+            "itemName": "bathtub",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "41fb5816-e59b-495a-a113-343b7fb76888"
+                }
+            ]
+        },
+        {
+            "uniqueId": "f1ba0d44-51e8-469b-b402-777c7d5d18a1",
+            "typeId": 6,
+            "x": 81,
+            "y": 25,
+            "itemName": "IR's bathtub",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "ec94a9b4-d06a-47c7-9b4d-2cab7e5093cb"
+                }
+            ]
+        },
+        {
+            "uniqueId": "d574496e-5294-4528-9034-24b7be745333",
+            "typeId": 6,
+            "x": 86,
+            "y": 25,
+            "itemName": "bathtub",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "d7c1e917-43fa-4e1c-b7be-75ef4a4dec9f,0d543d6a-3d8c-411c-9b1a-dbed6713a4a4"
+                }
+            ]
+        },
+        {
+            "uniqueId": "03f1e843-f665-43bc-b9b0-f494b4449335",
+            "typeId": 6,
+            "x": 93,
+            "y": 25,
+            "itemName": "bathtub",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "5563b919-ede6-42e2-929e-5bcc8ff13795,5f6723cd-ac40-4ec7-9fa1-b92787fb10e8"
+                }
+            ]
+        },
+        {
+            "uniqueId": "c6081c01-fb08-48aa-a8fe-b6404d627420",
+            "typeId": 6,
+            "x": 65,
+            "y": 25,
+            "itemName": "RP's bathtub",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "c6d3f6e2-c2e0-4f70-9419-8aa0115eee1e"
+                }
+            ]
+        },
+        {
+            "uniqueId": "aeeb7cbd-2d79-48df-aaba-92263fc107c5",
+            "typeId": 33,
+            "x": 65,
+            "y": 31,
+            "itemName": "RP's bed",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "40e5a057-224a-41d5-b7a0-e2cdd22cb143,df480624-d3d9-4e8a-a702-53ff7df08474"
+                }
+            ]
+        },
+        {
+            "uniqueId": "347d985e-310e-4fb4-91a9-f75ccfc13aef",
+            "typeId": 33,
+            "x": 86,
+            "y": 30,
+            "itemName": "GR's bed",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "b4620c58-7108-4006-9c6b-2889b92efcd5,d63920e6-35ca-47ce-b564-fcb39e726f89"
+                }
+            ]
+        },
+        {
+            "uniqueId": "d380daa3-6f0a-43bd-bbc9-2a0556b48ac9",
+            "typeId": 3,
+            "x": 93,
+            "y": 30,
+            "itemName": "bed",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "8a415d7d-63f2-4499-9df4-2e3794995ea7,d0e81d66-5b27-4756-903e-18d3011c5bd7"
+                }
+            ]
+        },
+        {
+            "uniqueId": "36d372e0-4756-427d-ad6d-1cd96083c769",
+            "typeId": 17,
+            "x": 97,
+            "y": 31,
+            "itemName": "closet",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "4a6fb1a1-ee58-418e-9098-d222afcedc7c,1d3cd037-e596-4a38-bf98-c01407d03ae8"
+                }
+            ]
+        },
+        {
+            "uniqueId": "a5d9ffb7-d0e0-4ee5-819a-2ceca8dd8a2f",
+            "typeId": 17,
+            "x": 90,
+            "y": 31,
+            "itemName": "closet",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "d319a94b-844a-46ce-8451-72036377b938,a9ff8086-9eb5-42b6-b119-89dfbc048f54"
+                }
+            ]
+        },
+        {
+            "uniqueId": "f6a3a239-a3cc-42bb-a5e2-9302992db847",
+            "typeId": 17,
+            "x": 69,
+            "y": 35,
+            "itemName": "closet",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "a9e49900-eaea-4265-9080-ba56d4badc15,5065fe97-ebf5-49c0-9127-e85c5bca6bb5"
+                }
+            ]
+        },
+        {
+            "uniqueId": "c7040a0f-6d08-4726-a74f-dc4da6bc32cf",
+            "typeId": 28,
+            "x": 89,
+            "y": 36,
+            "itemName": "refrigerator",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "f4e315d6-73a7-4b24-95a7-d5aa0de9cee7,2fc88730-542a-4a72-85e2-98fbc4794d35"
+                }
+            ]
+        },
+        {
+            "uniqueId": "e5feb676-b99f-476e-aea1-cf1ef459d20f",
+            "typeId": 28,
+            "x": 96,
+            "y": 36,
+            "itemName": "refrigerator",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "a4f14d23-2bce-467a-9d98-83ee303db9b3,1ac1f41c-399f-43f3-b305-4fbd2519e5e4"
+                }
+            ]
+        },
+        {
+            "uniqueId": "01722c0f-a8a4-4045-8788-d87e6ccc5b58",
+            "typeId": 30,
+            "x": 73,
+            "y": 33,
+            "itemName": "sofa",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "8ca4607b-2722-4445-961d-e37782b6704c,2c24537e-0592-4098-918a-ebc794bf9c71"
+                }
+            ]
+        },
+        {
+            "uniqueId": "5da642f0-8f36-4538-bb43-7d8ef3e0581f",
+            "typeId": 24,
+            "x": 89,
+            "y": 34,
+            "itemName": "kitchen sink",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "55664346-0613-4de7-9361-ac726d3e3035,3eded015-c33c-43df-93af-3f6232f12cbd"
+                }
+            ]
+        },
+        {
+            "uniqueId": "7a7e6d69-ada5-4f05-aa0e-e18fa845c8c2",
+            "typeId": 24,
+            "x": 96,
+            "y": 34,
+            "itemName": "sink",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "edf058fd-1f11-4610-8bbd-94e8a119ce91,c22994de-02a2-4d1a-8b30-35d7340ef558"
+                }
+            ]
+        },
+        {
+            "uniqueId": "d3be545b-f408-4a59-8af2-a8097780f4ad",
+            "typeId": 24,
+            "x": 65,
+            "y": 36,
+            "itemName": "sink",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "926dd902-9cd3-4947-be72-14054540f1f0"
+                }
+            ]
+        },
+        {
+            "uniqueId": "dd23ae3f-7a01-42df-85c7-1c5a9c152a8a",
+            "typeId": 31,
+            "x": 83,
+            "y": 26,
+            "itemName": "toilet",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "0c3b6065-c0e3-477b-b7c4-bab8103340da,23f9c13b-0e32-404c-beac-8b7d95133216"
+                }
+            ]
+        },
+        {
+            "uniqueId": "0a09a854-4873-4224-b3d0-fb76a0a4b8bb",
+            "typeId": 31,
+            "x": 90,
+            "y": 25,
+            "itemName": "toilet",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "dc9d731e-a72c-4e8f-9f32-21dabd751dfe,f824db31-9fa8-4aba-a224-06d06a892b05"
+                }
+            ]
+        },
+        {
+            "uniqueId": "e4b5f19e-e804-43ae-977c-41067ae2cde6",
+            "typeId": 31,
+            "x": 96,
+            "y": 25,
+            "itemName": "toilet",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "46d7d5e9-cad4-468f-b5d2-0dfdefdf5122,bbc5e841-5f7c-4918-869b-7639227ba53f"
+                }
+            ]
+        },
+        {
+            "uniqueId": "02a6c855-86a3-442b-96c4-61441de53cbf",
+            "typeId": 31,
+            "x": 69,
+            "y": 26,
+            "itemName": "toilet",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "7985765d-1520-4d73-94d6-6e51f9c39a6b,afb5ef4a-828f-421a-986e-86c0988956ce"
+                }
+            ]
+        },
+        {
+            "uniqueId": "fe8a82e9-900e-4eab-8d9b-6753fcc12a93",
+            "typeId": 31,
+            "x": 62,
+            "y": 27,
+            "itemName": "toilet",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "8faaac95-6f44-458e-8263-4225b51146e2,43369482-16a1-4040-9b33-b360f3178fc1"
+                }
+            ]
+        },
+        {
+            "uniqueId": "866c29a1-7c16-4b7f-95a1-cb6be4740f34",
+            "typeId": 16,
+            "x": 76,
+            "y": 48,
+            "itemName": "bookshelf",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "c9ca0db8-2603-4b3d-9aaa-8dba8bcd1dd3,85b11b0e-a15b-4f6e-aa12-6ba8879eb8d3"
+                }
+            ]
+        },
+        {
+            "uniqueId": "5705cbe8-2829-4086-9e5e-51eebac822fc",
+            "typeId": 16,
+            "x": 76,
+            "y": 55,
+            "itemName": "bookshelf",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "74b83c47-f731-480e-acc1-80cb1f108821,318f928a-2930-418c-a535-98e38eb2117c"
+                }
+            ]
+        },
+        {
+            "uniqueId": "468abca7-6ada-41af-a9f4-f76c3a3a32e7",
+            "typeId": 16,
+            "x": 81,
+            "y": 55,
+            "itemName": "bookshelf",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "49dcb876-3a34-463e-bf34-dfc5a976a9b7,826aff2c-56cf-465d-b240-ea45ded2650a"
+                }
+            ]
+        },
+        {
+            "uniqueId": "4f3f6e77-21f6-48c4-9510-4688a59a9155",
+            "typeId": 8,
+            "x": 90,
+            "y": 48,
+            "itemName": "flowerpot",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "87390bf8-9be9-4c10-9c97-286c00ba2565"
+                }
+            ]
+        },
+        {
+            "uniqueId": "f62a834e-1b53-41aa-9393-be8ff0a9ff08",
+            "typeId": 8,
+            "x": 63,
+            "y": 48,
+            "itemName": "flowerpot",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "3a58da72-be43-4723-abdb-d2bb8a7ce0ba"
+                }
+            ]
+        },
+        {
+            "uniqueId": "3b2049dc-a0b5-4163-87df-d2570a26e446",
+            "typeId": 4,
+            "x": 89,
+            "y": 53,
+            "itemName": "desk",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "61bb0ced-574f-42b6-a11d-513813a320c5"
+                }
+            ]
+        },
+        {
+            "uniqueId": "bcb43ef4-3836-4b69-9dbd-c6cc704a6197",
+            "typeId": 5,
+            "x": 91,
+            "y": 56,
+            "itemName": "harp",
+            "attributes": []
+        },
+        {
+            "uniqueId": "e49c6f4b-024b-48d5-823d-0ae1c84bfa66",
+            "typeId": 25,
+            "x": 122,
+            "y": 31,
+            "itemName": "library_table",
+            "attributes": []
+        },
+        {
+            "uniqueId": "23a4e43d-e40e-4dd4-a595-19e53539fa65",
+            "typeId": 25,
+            "x": 122,
+            "y": 33,
+            "itemName": "library_table",
+            "attributes": []
+        },
+        {
+            "uniqueId": "5fa6fa55-010a-4856-b8a4-206e2b66c7c7",
+            "typeId": 25,
+            "x": 124,
+            "y": 33,
+            "itemName": "library_table",
+            "attributes": []
+        },
+        {
+            "uniqueId": "4137c521-94c0-4956-97aa-2a41b10178f6",
+            "typeId": 25,
+            "x": 124,
+            "y": 31,
+            "itemName": "library_table",
+            "attributes": []
+        },
+        {
+            "uniqueId": "31026b92-afdc-4f75-ba78-5aa8a3e2e579",
+            "typeId": 28,
+            "x": 119,
+            "y": 49,
+            "itemName": "refrigerator",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "e4d3fd4f-ffd1-434d-a01b-d771a6596cec,1ae10512-b372-482d-953d-f69edcbcc3b4"
+                }
+            ]
+        },
+        {
+            "uniqueId": "fb74d341-a53e-4bb1-9cb6-a1df66d51647",
+            "typeId": 30,
+            "x": 110,
+            "y": 55,
+            "itemName": "sofa",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "5a534bf1-376e-4923-9df2-0a175eb86334,b1cbda4c-5fdb-4906-a33f-0d78458130f4"
+                }
+            ]
+        },
+        {
+            "uniqueId": "e213f1ea-e73e-492e-81df-b7a9878b9a02",
+            "typeId": 6,
+            "x": 102,
+            "y": 55,
+            "itemName": "bathtub",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "a6e68d1c-fd9e-4cbd-bdbf-40eecda97b07"
+                }
+            ]
+        },
+        {
+            "uniqueId": "87192169-afbe-46ae-ac35-6e1413916a8b",
+            "typeId": 3,
+            "x": 102,
+            "y": 64,
+            "itemName": "bed",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "bbbcee42-33e4-4ebd-8662-0b9911d28c46,39d7e707-74fa-4a40-82d5-9bffd0f9a50b"
+                }
+            ]
+        },
+        {
+            "uniqueId": "e46e780e-b583-4a97-8843-59ff290b489a",
+            "typeId": 33,
+            "x": 110,
+            "y": 64,
+            "itemName": "bed",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "ec9a781a-0f09-44d8-8f2d-6757b563372a,d49e86ff-5123-46f9-acd2-d8da021c4d7b"
+                }
+            ]
+        },
+        {
+            "uniqueId": "a34be271-2242-452f-ab6e-db56fc883bb4",
+            "typeId": 17,
+            "x": 115,
+            "y": 62,
+            "itemName": "closet",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "5ed89763-f18a-4f99-8ba2-7427c4500d3f,181bc6b3-9c84-43ea-a058-785a5f99ea41"
+                }
+            ]
+        },
+        {
+            "uniqueId": "2bd875b8-44e9-4d66-9782-86bff5739d37",
+            "typeId": 17,
+            "x": 123,
+            "y": 58,
+            "itemName": "closet",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "73304757-0ea6-4d14-a3d8-d20983d60169,6c391f0f-46da-4d08-9e8c-31900a9fe46c"
+                }
+            ]
+        },
+        {
+            "uniqueId": "60a48402-b58e-4ae4-be6d-1f4f2feea8d7",
+            "typeId": 36,
+            "x": 106,
+            "y": 65,
+            "itemName": "closet2",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "6751a659-2cef-40c5-a49a-1e6cc24a6615,24b39b84-58d7-4903-9a82-7aa17f985923"
+                }
+            ]
+        },
+        {
+            "uniqueId": "b3cc4ddd-cade-4010-a5a6-8703b83f2d49",
+            "typeId": 31,
+            "x": 126,
+            "y": 58,
+            "itemName": "toilet",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "a00756c9-7159-4f31-ac4b-069322971aa1,d8f8d339-810d-4809-b85f-c523489e0f8b"
+                }
+            ]
+        },
+        {
+            "uniqueId": "6b34cd91-50b1-461c-bd83-a5279625aae2",
+            "typeId": 31,
+            "x": 105,
+            "y": 55,
+            "itemName": "toilet",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "d2fd2c2d-b77b-4059-affc-301fcd3bb2e8,b390f540-4f2b-4ea4-91e8-0695575563fb"
+                }
+            ]
+        },
+        {
+            "uniqueId": "7a43f213-7eba-4958-908a-787eb8a077d8",
+            "typeId": 36,
+            "x": 126,
+            "y": 50,
+            "itemName": "closet2",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "4a7ae2dc-452c-4fab-8355-96a5329041b4,8da0cf45-54b6-4745-85cc-bff3864cdb75"
+                }
+            ]
+        },
+        {
+            "uniqueId": "510014e3-8bae-4630-9800-49e4fb767465",
+            "typeId": 24,
+            "x": 116,
+            "y": 50,
+            "itemName": "kitchen sink",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "93dc47e7-e1cd-41ce-a45f-758938b68a35,f6805c83-150e-4bbf-bfdc-f818cde117af"
+                }
+            ]
+        },
+        {
+            "uniqueId": "6bfb9245-800f-44e9-adbe-6c73f5eac7a2",
+            "typeId": 5,
+            "x": 114,
+            "y": 56,
+            "itemName": "harp",
+            "attributes": []
+        },
+        {
+            "uniqueId": "eba30d5a-0ef1-45ac-8449-1f2b2c93279f",
+            "typeId": 29,
+            "x": -1,
+            "y": -1,
+            "itemName": "body wash",
+            "attributes": []
+        },
+        {
+            "uniqueId": "adafc720-9a10-4b7e-9f7a-581b5a572a4e",
+            "typeId": 41,
+            "x": -1,
+            "y": -1,
+            "itemName": "clothes",
+            "attributes": []
+        },
+        {
+            "uniqueId": "15f307b9-9cdc-49d5-8804-2add515f0815",
+            "typeId": 41,
+            "x": -1,
+            "y": -1,
+            "itemName": "clothes",
+            "attributes": []
+        },
+        {
+            "uniqueId": "8a6406bc-be2a-49fc-b16a-061a75ede2b0",
+            "typeId": 41,
+            "x": -1,
+            "y": -1,
+            "itemName": "clothes",
+            "attributes": []
+        },
+        {
+            "uniqueId": "3c63fde9-b477-4bfb-9c7e-2b6bf6ff8e78",
+            "typeId": 3,
+            "x": 15,
+            "y": 37,
+            "itemName": "bed",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "b001a274-a35b-4d17-80ec-326a3aa0e9e4,1cd1c9ea-693a-48d5-b704-07c65a1794d1"
+                }
+            ]
+        },
+        {
+            "uniqueId": "b001a274-a35b-4d17-80ec-326a3aa0e9e4",
+            "typeId": 11,
+            "x": -1,
+            "y": -1,
+            "itemName": "blanket",
+            "attributes": []
+        },
+        {
+            "uniqueId": "2fb220f9-301d-4aa1-807d-eec750e2d9e4",
+            "typeId": 11,
+            "x": -1,
+            "y": -1,
+            "itemName": "blanket",
+            "attributes": []
+        },
+        {
+            "uniqueId": "034c31df-c6c7-442d-bd8b-dc0707b25bac",
+            "typeId": 11,
+            "x": -1,
+            "y": -1,
+            "itemName": "blanket",
+            "attributes": []
+        },
+        {
+            "uniqueId": "8ec04830-3d66-4384-bffa-63c88ec3196a",
+            "typeId": 11,
+            "x": -1,
+            "y": -1,
+            "itemName": "blanket",
+            "attributes": []
+        },
+        {
+            "uniqueId": "f649f3d3-d236-42c2-be53-568808c67836",
+            "typeId": 11,
+            "x": -1,
+            "y": -1,
+            "itemName": "blanket",
+            "attributes": []
+        },
+        {
+            "uniqueId": "8cc269bc-1d90-42ab-a570-323d1403b5a8",
+            "typeId": 11,
+            "x": -1,
+            "y": -1,
+            "itemName": "blanket",
+            "attributes": []
+        },
+        {
+            "uniqueId": "41fb5816-e59b-495a-a113-343b7fb76888",
+            "typeId": 29,
+            "x": -1,
+            "y": -1,
+            "itemName": "body wash",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "5f00e8cc-87a0-41fd-a6fa-76a426be0984,6ac42138-adfa-4053-bd46-5dba22e2cacb"
+                }
+            ]
+        },
+        {
+            "uniqueId": "c6d3f6e2-c2e0-4f70-9419-8aa0115eee1e",
+            "typeId": 29,
+            "x": -1,
+            "y": -1,
+            "itemName": "body wash",
+            "attributes": []
+        },
+        {
+            "uniqueId": "ec94a9b4-d06a-47c7-9b4d-2cab7e5093cb",
+            "typeId": 29,
+            "x": -1,
+            "y": -1,
+            "itemName": "body wash",
+            "attributes": []
+        },
+        {
+            "uniqueId": "b1c8f358-aed6-450b-8766-9549b6610267",
+            "typeId": 11,
+            "x": -1,
+            "y": -1,
+            "itemName": "blanket",
+            "attributes": []
+        },
+        {
+            "uniqueId": "d7c1e917-43fa-4e1c-b7be-75ef4a4dec9f",
+            "typeId": 29,
+            "x": -1,
+            "y": -1,
+            "itemName": "body wash",
+            "attributes": []
+        },
+        {
+            "uniqueId": "dc9d731e-a72c-4e8f-9f32-21dabd751dfe",
+            "typeId": 44,
+            "x": -1,
+            "y": -1,
+            "itemName": "toilet cleaner",
+            "attributes": []
+        },
+        {
+            "uniqueId": "f824db31-9fa8-4aba-a224-06d06a892b05",
+            "typeId": 42,
+            "x": -1,
+            "y": -1,
+            "itemName": "toilet paper",
+            "attributes": []
+        },
+        {
+            "uniqueId": "5563b919-ede6-42e2-929e-5bcc8ff13795",
+            "typeId": 59,
+            "x": -1,
+            "y": -1,
+            "itemName": "towel",
+            "attributes": []
+        },
+        {
+            "uniqueId": "46d7d5e9-cad4-468f-b5d2-0dfdefdf5122",
+            "typeId": 42,
+            "x": -1,
+            "y": -1,
+            "itemName": "toilet paper",
+            "attributes": []
+        },
+        {
+            "uniqueId": "bbc5e841-5f7c-4918-869b-7639227ba53f",
+            "typeId": 44,
+            "x": -1,
+            "y": -1,
+            "itemName": "toilet cleaner",
+            "attributes": []
+        },
+        {
+            "uniqueId": "8a415d7d-63f2-4499-9df4-2e3794995ea7",
+            "typeId": 11,
+            "x": -1,
+            "y": -1,
+            "itemName": "blanket",
+            "attributes": []
+        },
+        {
+            "uniqueId": "9f29b034-1654-4b41-8236-e9591b6f6f18",
+            "typeId": 29,
+            "x": -1,
+            "y": -1,
+            "itemName": "body wash",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "9b77641e-fb7f-47f4-ac57-0ebac63f34b4,99658774-7dff-4c1e-af84-d8fad290a6dd,6aa96bab-3873-4abd-bb4f-dc7cb0b2162b"
+                }
+            ]
+        },
+        {
+            "uniqueId": "6b14fba1-5aff-44e0-90bd-b2334e13ff8a",
+            "typeId": 29,
+            "x": -1,
+            "y": -1,
+            "itemName": "body wash",
+            "attributes": []
+        },
+        {
+            "uniqueId": "9f5110b2-82ab-40b1-a803-6970136f2dee",
+            "typeId": 41,
+            "x": -1,
+            "y": -1,
+            "itemName": "clothes",
+            "attributes": []
+        },
+        {
+            "uniqueId": "d6faa13e-f7c1-4ecb-9ef0-e47f74d20bd7",
+            "typeId": 41,
+            "x": -1,
+            "y": -1,
+            "itemName": "clothes",
+            "attributes": []
+        },
+        {
+            "uniqueId": "2fc8f518-53b2-4c43-a889-1a6e3ca8ec2d",
+            "typeId": 41,
+            "x": -1,
+            "y": -1,
+            "itemName": "clothes",
+            "attributes": []
+        },
+        {
+            "uniqueId": "6a007c2e-8527-4b52-b44e-63c79d543b07",
+            "typeId": 41,
+            "x": -1,
+            "y": -1,
+            "itemName": "clothes",
+            "attributes": []
+        },
+        {
+            "uniqueId": "1d3d489c-9c91-4fbd-bee2-3e6e7f21ab3f",
+            "typeId": 42,
+            "x": -1,
+            "y": -1,
+            "itemName": "toilet paper",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "203cc2df-2378-4753-a307-1cc9076c7386,3652ed53-6bce-4269-9b38-8dc54c29d9f2,9554c135-a282-44c6-81c4-dcd629a5858d,75acb5d8-a60c-407b-bafe-91277eddd772"
+                }
+            ]
+        },
+        {
+            "uniqueId": "203cc2df-2378-4753-a307-1cc9076c7386",
+            "typeId": 44,
+            "x": -1,
+            "y": -1,
+            "itemName": "toilet cleaner",
+            "attributes": []
+        },
+        {
+            "uniqueId": "3652ed53-6bce-4269-9b38-8dc54c29d9f2",
+            "typeId": 44,
+            "x": -1,
+            "y": -1,
+            "itemName": "toilet cleaner",
+            "attributes": []
+        },
+        {
+            "uniqueId": "9554c135-a282-44c6-81c4-dcd629a5858d",
+            "typeId": 44,
+            "x": -1,
+            "y": -1,
+            "itemName": "toilet cleaner",
+            "attributes": []
+        },
+        {
+            "uniqueId": "75acb5d8-a60c-407b-bafe-91277eddd772",
+            "typeId": 44,
+            "x": -1,
+            "y": -1,
+            "itemName": "toilet cleaner",
+            "attributes": []
+        },
+        {
+            "uniqueId": "fd30d796-57f7-495e-9d3b-d572f526c685",
+            "typeId": 44,
+            "x": -1,
+            "y": -1,
+            "itemName": "toilet cleaner",
+            "attributes": []
+        },
+        {
+            "uniqueId": "901c408d-8799-4219-9360-fcf320a812a9",
+            "typeId": 42,
+            "x": -1,
+            "y": -1,
+            "itemName": "toilet paper",
+            "attributes": []
+        },
+        {
+            "uniqueId": "d5358352-30a6-41ae-90b6-108dc4066f9a",
+            "typeId": 44,
+            "x": -1,
+            "y": -1,
+            "itemName": "toilet cleaner",
+            "attributes": []
+        },
+        {
+            "uniqueId": "a77a96cf-35ec-4330-afc2-e60387030840",
+            "typeId": 41,
+            "x": -1,
+            "y": -1,
+            "itemName": "clothes",
+            "attributes": []
+        },
+        {
+            "uniqueId": "b6afac84-9325-45ae-b77c-9c888698636a",
+            "typeId": 11,
+            "x": -1,
+            "y": -1,
+            "itemName": "blanket",
+            "attributes": []
+        },
+        {
+            "uniqueId": "7af7bb7b-10fa-43ed-a2d5-6f5aac81b6d1",
+            "typeId": 11,
+            "x": -1,
+            "y": -1,
+            "itemName": "blanket",
+            "attributes": []
+        },
+        {
+            "uniqueId": "9ab199fe-7b17-4e3b-88d4-9927eaa9733d",
+            "typeId": 11,
+            "x": -1,
+            "y": -1,
+            "itemName": "blanket",
+            "attributes": []
+        },
+        {
+            "uniqueId": "5b1575c4-45a7-43f7-9a14-8a51593acd09",
+            "typeId": 11,
+            "x": -1,
+            "y": -1,
+            "itemName": "blanket",
+            "attributes": []
+        },
+        {
+            "uniqueId": "f4daa5d5-5f91-4e57-8d0f-99c2e3170bd2",
+            "typeId": 11,
+            "x": -1,
+            "y": -1,
+            "itemName": "blanket",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "eeeba93f-0ceb-46ee-81d6-2cb727ba788b,51f2007a-51c0-42e8-9f5e-ce939dd0da79"
+                }
+            ]
+        },
+        {
+            "uniqueId": "c5ef2d46-baaa-4183-a4a5-b6dbf4493fdb",
+            "typeId": 11,
+            "x": -1,
+            "y": -1,
+            "itemName": "blanket",
+            "attributes": []
+        },
+        {
+            "uniqueId": "229624dd-1051-46cf-ac0f-06ae456c0881",
+            "typeId": 11,
+            "x": -1,
+            "y": -1,
+            "itemName": "blanket",
+            "attributes": []
+        },
+        {
+            "uniqueId": "44e05e63-3caa-4e50-b8a7-26c51857bcc1",
+            "typeId": 11,
+            "x": -1,
+            "y": -1,
+            "itemName": "blanket",
+            "attributes": []
+        },
+        {
+            "uniqueId": "3f095c73-9123-4070-a593-23abdd202464",
+            "typeId": 11,
+            "x": -1,
+            "y": -1,
+            "itemName": "blanket",
+            "attributes": []
+        },
+        {
+            "uniqueId": "bbbcee42-33e4-4ebd-8662-0b9911d28c46",
+            "typeId": 11,
+            "x": -1,
+            "y": -1,
+            "itemName": "blanket",
+            "attributes": []
+        },
+        {
+            "uniqueId": "ec9a781a-0f09-44d8-8f2d-6757b563372a",
+            "typeId": 11,
+            "x": -1,
+            "y": -1,
+            "itemName": "blanket",
+            "attributes": []
+        },
+        {
+            "uniqueId": "dce4f387-1942-4113-9a22-f05ae5c763a6",
+            "typeId": 11,
+            "x": -1,
+            "y": -1,
+            "itemName": "blanket",
+            "attributes": []
+        },
+        {
+            "uniqueId": "5bea67c2-69d3-4b30-8a67-8205bafff29b",
+            "typeId": 11,
+            "x": -1,
+            "y": -1,
+            "itemName": "blanket",
+            "attributes": []
+        },
+        {
+            "uniqueId": "40e5a057-224a-41d5-b7a0-e2cdd22cb143",
+            "typeId": 11,
+            "x": -1,
+            "y": -1,
+            "itemName": "blanket",
+            "attributes": []
+        },
+        {
+            "uniqueId": "b4620c58-7108-4006-9c6b-2889b92efcd5",
+            "typeId": 11,
+            "x": -1,
+            "y": -1,
+            "itemName": "blanket",
+            "attributes": []
+        },
+        {
+            "uniqueId": "a6e68d1c-fd9e-4cbd-bdbf-40eecda97b07",
+            "typeId": 29,
+            "x": -1,
+            "y": -1,
+            "itemName": "body wash",
+            "attributes": []
+        },
+        {
+            "uniqueId": "cedc4989-01c0-4713-bdf6-571770d2165b",
+            "typeId": 29,
+            "x": -1,
+            "y": -1,
+            "itemName": "body wash",
+            "attributes": []
+        },
+        {
+            "uniqueId": "0beeb0e5-14b0-4417-ab08-dc422c6691e5",
+            "typeId": 29,
+            "x": -1,
+            "y": -1,
+            "itemName": "body wash",
+            "attributes": []
+        },
+        {
+            "uniqueId": "77f58062-a034-41a2-a5e7-211724fdbc57",
+            "typeId": 29,
+            "x": -1,
+            "y": -1,
+            "itemName": "body wash",
+            "attributes": []
+        },
+        {
+            "uniqueId": "cd92d7fe-caf4-4da7-92a8-40e5d2334044",
+            "typeId": 29,
+            "x": -1,
+            "y": -1,
+            "itemName": "body wash",
+            "attributes": []
+        },
+        {
+            "uniqueId": "2fde63c4-5b10-485f-adfd-44e95b6a9d8b",
+            "typeId": 29,
+            "x": -1,
+            "y": -1,
+            "itemName": "body wash",
+            "attributes": []
+        },
+        {
+            "uniqueId": "5b72efe5-0bb6-4f2b-be82-0aa74b2509be",
+            "typeId": 29,
+            "x": -1,
+            "y": -1,
+            "itemName": "body wash",
+            "attributes": []
+        },
+        {
+            "uniqueId": "5f1fd276-620d-4d41-973f-a3d8bd724669",
+            "typeId": 29,
+            "x": -1,
+            "y": -1,
+            "itemName": "body wash",
+            "attributes": []
+        },
+        {
+            "uniqueId": "0996cfd1-5b07-484b-802e-e7f6eb8adc71",
+            "typeId": 44,
+            "x": -1,
+            "y": -1,
+            "itemName": "toilet cleaner",
+            "attributes": []
+        },
+        {
+            "uniqueId": "e34f7c6f-e142-4175-8bc7-5610ce3e12e8",
+            "typeId": 42,
+            "x": -1,
+            "y": -1,
+            "itemName": "toilet paper",
+            "attributes": []
+        },
+        {
+            "uniqueId": "180e26e2-3a6d-4d11-8832-2b15b749c00c",
+            "typeId": 44,
+            "x": -1,
+            "y": -1,
+            "itemName": "toilet cleaner",
+            "attributes": []
+        },
+        {
+            "uniqueId": "069df3c1-266d-427f-adfc-024bfd1cd262",
+            "typeId": 42,
+            "x": -1,
+            "y": -1,
+            "itemName": "toilet paper",
+            "attributes": []
+        },
+        {
+            "uniqueId": "9e6a09f2-19db-404e-955e-6186a57bd4f8",
+            "typeId": 44,
+            "x": -1,
+            "y": -1,
+            "itemName": "toilet cleaner",
+            "attributes": []
+        },
+        {
+            "uniqueId": "2a205fa2-a11b-482d-bfe4-674de53e78bd",
+            "typeId": 42,
+            "x": -1,
+            "y": -1,
+            "itemName": "toilet paper",
+            "attributes": []
+        },
+        {
+            "uniqueId": "8faaac95-6f44-458e-8263-4225b51146e2",
+            "typeId": 42,
+            "x": -1,
+            "y": -1,
+            "itemName": "toilet paper",
+            "attributes": []
+        },
+        {
+            "uniqueId": "43369482-16a1-4040-9b33-b360f3178fc1",
+            "typeId": 44,
+            "x": -1,
+            "y": -1,
+            "itemName": "toilet cleaner",
+            "attributes": []
+        },
+        {
+            "uniqueId": "7985765d-1520-4d73-94d6-6e51f9c39a6b",
+            "typeId": 42,
+            "x": -1,
+            "y": -1,
+            "itemName": "toilet paper",
+            "attributes": []
+        },
+        {
+            "uniqueId": "afb5ef4a-828f-421a-986e-86c0988956ce",
+            "typeId": 44,
+            "x": -1,
+            "y": -1,
+            "itemName": "toilet cleaner",
+            "attributes": []
+        },
+        {
+            "uniqueId": "0c3b6065-c0e3-477b-b7c4-bab8103340da",
+            "typeId": 42,
+            "x": -1,
+            "y": -1,
+            "itemName": "toilet paper",
+            "attributes": []
+        },
+        {
+            "uniqueId": "23f9c13b-0e32-404c-beac-8b7d95133216",
+            "typeId": 44,
+            "x": -1,
+            "y": -1,
+            "itemName": "toilet cleaner",
+            "attributes": []
+        },
+        {
+            "uniqueId": "d2fd2c2d-b77b-4059-affc-301fcd3bb2e8",
+            "typeId": 42,
+            "x": -1,
+            "y": -1,
+            "itemName": "toilet paper",
+            "attributes": []
+        },
+        {
+            "uniqueId": "b390f540-4f2b-4ea4-91e8-0695575563fb",
+            "typeId": 44,
+            "x": -1,
+            "y": -1,
+            "itemName": "toilet cleaner",
+            "attributes": []
+        },
+        {
+            "uniqueId": "a00756c9-7159-4f31-ac4b-069322971aa1",
+            "typeId": 42,
+            "x": -1,
+            "y": -1,
+            "itemName": "toilet paper",
+            "attributes": []
+        },
+        {
+            "uniqueId": "d8f8d339-810d-4809-b85f-c523489e0f8b",
+            "typeId": 44,
+            "x": -1,
+            "y": -1,
+            "itemName": "toilet cleaner",
+            "attributes": []
+        },
+        {
+            "uniqueId": "a9e49900-eaea-4265-9080-ba56d4badc15",
+            "typeId": 41,
+            "x": -1,
+            "y": -1,
+            "itemName": "clothes",
+            "attributes": []
+        },
+        {
+            "uniqueId": "d319a94b-844a-46ce-8451-72036377b938",
+            "typeId": 41,
+            "x": -1,
+            "y": -1,
+            "itemName": "clothes",
+            "attributes": []
+        },
+        {
+            "uniqueId": "4a6fb1a1-ee58-418e-9098-d222afcedc7c",
+            "typeId": 41,
+            "x": -1,
+            "y": -1,
+            "itemName": "clothes",
+            "attributes": []
+        },
+        {
+            "uniqueId": "6751a659-2cef-40c5-a49a-1e6cc24a6615",
+            "typeId": 41,
+            "x": -1,
+            "y": -1,
+            "itemName": "clothes",
+            "attributes": []
+        },
+        {
+            "uniqueId": "5ed89763-f18a-4f99-8ba2-7427c4500d3f",
+            "typeId": 41,
+            "x": -1,
+            "y": -1,
+            "itemName": "clothes",
+            "attributes": []
+        },
+        {
+            "uniqueId": "73304757-0ea6-4d14-a3d8-d20983d60169",
+            "typeId": 41,
+            "x": -1,
+            "y": -1,
+            "itemName": "clothes",
+            "attributes": []
+        },
+        {
+            "uniqueId": "4a7ae2dc-452c-4fab-8355-96a5329041b4",
+            "typeId": 41,
+            "x": -1,
+            "y": -1,
+            "itemName": "clothes",
+            "attributes": []
+        },
+        {
+            "uniqueId": "7d391923-481e-4b1a-8be3-81548b749810",
+            "typeId": 39,
+            "x": -1,
+            "y": -1,
+            "itemName": "dish soap",
+            "attributes": []
+        },
+        {
+            "uniqueId": "952690a8-b3fe-47b2-92b6-20cad4530040",
+            "typeId": 39,
+            "x": -1,
+            "y": -1,
+            "itemName": "dish soap",
+            "attributes": []
+        },
+        {
+            "uniqueId": "34bbd39c-1fbb-485b-9415-b0c9f9f5ab1a",
+            "typeId": 41,
+            "x": -1,
+            "y": -1,
+            "itemName": "clothes",
+            "attributes": []
+        },
+        {
+            "uniqueId": "3947e614-7ff3-4e41-8711-9770e82bd538",
+            "typeId": 41,
+            "x": -1,
+            "y": -1,
+            "itemName": "clothes",
+            "attributes": []
+        },
+        {
+            "uniqueId": "662a8670-0b01-4085-94ad-6a99eeca3e45",
+            "typeId": 41,
+            "x": -1,
+            "y": -1,
+            "itemName": "clothes",
+            "attributes": []
+        },
+        {
+            "uniqueId": "2d7b90bb-b324-49f2-a26d-e9c03a4cbd3d",
+            "typeId": 41,
+            "x": -1,
+            "y": -1,
+            "itemName": "clothes",
+            "attributes": []
+        },
+        {
+            "uniqueId": "7021d8e4-3c95-4cbf-80dd-860a3a160761",
+            "typeId": 41,
+            "x": -1,
+            "y": -1,
+            "itemName": "clothes",
+            "attributes": []
+        },
+        {
+            "uniqueId": "ba5c5207-0d27-4e9d-bbaf-7e21f91835a8",
+            "typeId": 36,
+            "x": 61,
+            "y": 80,
+            "itemName": "closet2",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "c0a5d832-3925-40a0-8ea9-b8551455177f"
+                }
+            ]
+        },
+        {
+            "uniqueId": "c0a5d832-3925-40a0-8ea9-b8551455177f",
+            "typeId": 41,
+            "x": -1,
+            "y": -1,
+            "itemName": "clothes",
+            "attributes": []
+        },
+        {
+            "uniqueId": "38c61c80-302f-41a0-b41a-50c29f8b0fdc",
+            "typeId": 42,
+            "x": -1,
+            "y": -1,
+            "itemName": "toilet paper",
+            "attributes": []
+        },
+        {
+            "uniqueId": "aea34c38-ff59-45bf-aec9-c1b139df65c6",
+            "typeId": 44,
+            "x": -1,
+            "y": -1,
+            "itemName": "toilet cleaner",
+            "attributes": []
+        },
+        {
+            "uniqueId": "39ec06f5-16be-4018-a5dc-6dc9fe9afeff",
+            "typeId": 44,
+            "x": -1,
+            "y": -1,
+            "itemName": "toilet cleaner",
+            "attributes": []
+        },
+        {
+            "uniqueId": "0187b4c9-9b91-4628-b114-1bbd7e859fa9",
+            "typeId": 42,
+            "x": -1,
+            "y": -1,
+            "itemName": "toilet paper",
+            "attributes": []
+        },
+        {
+            "uniqueId": "cb1c5e00-da09-465f-b723-3a9e4efe5804",
+            "typeId": 44,
+            "x": -1,
+            "y": -1,
+            "itemName": "toilet cleaner",
+            "attributes": []
+        },
+        {
+            "uniqueId": "93de969a-3df7-4b61-85c0-53e1865a815f",
+            "typeId": 42,
+            "x": -1,
+            "y": -1,
+            "itemName": "toilet paper",
+            "attributes": []
+        },
+        {
+            "uniqueId": "926dd902-9cd3-4947-be72-14054540f1f0",
+            "typeId": 108,
+            "x": -1,
+            "y": -1,
+            "itemName": "sponge",
+            "attributes": []
+        },
+        {
+            "uniqueId": "55664346-0613-4de7-9361-ac726d3e3035",
+            "typeId": 108,
+            "x": -1,
+            "y": -1,
+            "itemName": "sponge",
+            "attributes": []
+        },
+        {
+            "uniqueId": "edf058fd-1f11-4610-8bbd-94e8a119ce91",
+            "typeId": 108,
+            "x": -1,
+            "y": -1,
+            "itemName": "sponge",
+            "attributes": []
+        },
+        {
+            "uniqueId": "93dc47e7-e1cd-41ce-a45f-758938b68a35",
+            "typeId": 108,
+            "x": -1,
+            "y": -1,
+            "itemName": "sponge",
+            "attributes": []
+        },
+        {
+            "uniqueId": "026a04b9-0219-463e-b821-f204067b5ff4",
+            "typeId": 108,
+            "x": -1,
+            "y": -1,
+            "itemName": "sponge",
+            "attributes": []
+        },
+        {
+            "uniqueId": "521171bb-2651-478e-a8a0-adf19f86c22d",
+            "typeId": 108,
+            "x": -1,
+            "y": -1,
+            "itemName": "sponge",
+            "attributes": []
+        },
+        {
+            "uniqueId": "6975c691-9d4f-4302-8788-cee5ab65d00f",
+            "typeId": 108,
+            "x": -1,
+            "y": -1,
+            "itemName": "sponge",
+            "attributes": []
+        },
+        {
+            "uniqueId": "aec87980-b1b4-4741-8bb3-846d6cdec503",
+            "typeId": 108,
+            "x": -1,
+            "y": -1,
+            "itemName": "sponge",
+            "attributes": []
+        },
+        {
+            "uniqueId": "d3d7811d-506a-43cf-8254-c2ecc84a81a9",
+            "typeId": 103,
+            "x": -1,
+            "y": -1,
+            "itemName": "books",
+            "attributes": []
+        },
+        {
+            "uniqueId": "1265cf05-da84-4b5b-9950-82a9989d3888",
+            "typeId": 103,
+            "x": -1,
+            "y": -1,
+            "itemName": "books",
+            "attributes": []
+        },
+        {
+            "uniqueId": "37077c36-f0fe-4c68-9112-cfc3b01a98a4",
+            "typeId": 103,
+            "x": -1,
+            "y": -1,
+            "itemName": "books",
+            "attributes": []
+        },
+        {
+            "uniqueId": "942c37e8-66c5-4301-9f51-8a448657deed",
+            "typeId": 103,
+            "x": -1,
+            "y": -1,
+            "itemName": "books",
+            "attributes": []
+        },
+        {
+            "uniqueId": "a66b58de-ba2b-44ee-8575-32074bf386e7",
+            "typeId": 21,
+            "x": 25,
+            "y": 27,
+            "itemName": "guitar",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "22cbe320-19fd-402e-a7cf-d1e200605f76"
+                }
+            ]
+        },
+        {
+            "uniqueId": "775c1891-7a91-42a9-a963-a8563a8dcf2e",
+            "typeId": 21,
+            "x": 60,
+            "y": 81,
+            "itemName": "guitar",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "100525a0-c2f9-45fa-8c31-6bc80b663aaa,ba38d34d-430e-4209-845d-5b11cbec0de8"
+                }
+            ]
+        },
+        {
+            "uniqueId": "c9d584c4-bf4a-4661-b176-ced2106a4067",
+            "typeId": 21,
+            "x": 79,
+            "y": 81,
+            "itemName": "guitar",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "2fa4156d-603b-4438-bfe8-a97430529c56,e211244c-29c1-4a81-abdc-69040a37ac4c"
+                }
+            ]
+        },
+        {
+            "uniqueId": "4546b83c-f419-44a4-93b5-7de98e5ee536",
+            "typeId": 21,
+            "x": 119,
+            "y": 52,
+            "itemName": "guitar",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "96b963d9-d860-4434-b48e-19628f7211b0,752aad5b-edda-4711-935f-d4503b99fbfe"
+                }
+            ]
+        },
+        {
+            "uniqueId": "3b65cd67-caa8-485e-aade-d158746e5bb5",
+            "typeId": 21,
+            "x": 114,
+            "y": 65,
+            "itemName": "guitar",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "3918e9d6-f57b-4dbd-8187-34334b9e2e07,5531a88e-6498-436c-b58a-d07014436aa4"
+                }
+            ]
+        },
+        {
+            "uniqueId": "100525a0-c2f9-45fa-8c31-6bc80b663aaa",
+            "typeId": 67,
+            "x": -1,
+            "y": -1,
+            "itemName": "guitar pick",
+            "attributes": []
+        },
+        {
+            "uniqueId": "ba38d34d-430e-4209-845d-5b11cbec0de8",
+            "typeId": 49,
+            "x": -1,
+            "y": -1,
+            "itemName": "guitar tuner",
+            "attributes": []
+        },
+        {
+            "uniqueId": "2fa4156d-603b-4438-bfe8-a97430529c56",
+            "typeId": 67,
+            "x": -1,
+            "y": -1,
+            "itemName": "guitar pick",
+            "attributes": []
+        },
+        {
+            "uniqueId": "e211244c-29c1-4a81-abdc-69040a37ac4c",
+            "typeId": 49,
+            "x": -1,
+            "y": -1,
+            "itemName": "guitar tuner",
+            "attributes": []
+        },
+        {
+            "uniqueId": "3918e9d6-f57b-4dbd-8187-34334b9e2e07",
+            "typeId": 67,
+            "x": -1,
+            "y": -1,
+            "itemName": "guitar pick",
+            "attributes": []
+        },
+        {
+            "uniqueId": "5531a88e-6498-436c-b58a-d07014436aa4",
+            "typeId": 49,
+            "x": -1,
+            "y": -1,
+            "itemName": "guitar tuner",
+            "attributes": []
+        },
+        {
+            "uniqueId": "122979c1-f71a-4131-bb59-85b23c54165b",
+            "typeId": 21,
+            "x": -1,
+            "y": -1,
+            "itemName": "guitar",
+            "attributes": []
+        },
+        {
+            "uniqueId": "c2a670a1-3f32-4808-bd46-6526c01c85d5",
+            "typeId": 21,
+            "x": -1,
+            "y": -1,
+            "itemName": "guitar",
+            "attributes": []
+        },
+        {
+            "uniqueId": "c9ca0db8-2603-4b3d-9aaa-8dba8bcd1dd3",
+            "typeId": 87,
+            "x": -1,
+            "y": -1,
+            "itemName": "medicine",
+            "attributes": []
+        },
+        {
+            "uniqueId": "85b11b0e-a15b-4f6e-aa12-6ba8879eb8d3",
+            "typeId": 12,
+            "x": -1,
+            "y": -1,
+            "itemName": "magazine",
+            "attributes": []
+        },
+        {
+            "uniqueId": "74b83c47-f731-480e-acc1-80cb1f108821",
+            "typeId": 26,
+            "x": -1,
+            "y": -1,
+            "itemName": "milk",
+            "attributes": []
+        },
+        {
+            "uniqueId": "318f928a-2930-418c-a535-98e38eb2117c",
+            "typeId": 66,
+            "x": -1,
+            "y": -1,
+            "itemName": "prescription",
+            "attributes": []
+        },
+        {
+            "uniqueId": "c04b47e5-3268-4158-a2b8-6417eb3efc7f",
+            "typeId": 28,
+            "x": 49,
+            "y": 48,
+            "itemName": "refrigerator",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "c0c79253-bbf6-4605-be16-d1cda7ca8c56,f72de734-2364-4768-88f5-bffe6d747800"
+                }
+            ]
+        },
+        {
+            "uniqueId": "a6e6c689-830b-4aa4-a67b-7671fd7904ed",
+            "typeId": 30,
+            "x": 49,
+            "y": 54,
+            "itemName": "sofa",
+            "attributes": []
+        },
+        {
+            "uniqueId": "0b6dd958-ae61-4c9d-8b14-1225e495e7ab",
+            "typeId": 160,
+            "x": 59,
+            "y": 51,
+            "itemName": "table",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "b1fa22bd-30a0-45c5-a661-1738531fe7da,6eb050de-3915-4088-a7f0-248bc8420b26"
+                }
+            ]
+        },
+        {
+            "uniqueId": "eda563e7-2988-4139-89a7-396a83bb75d9",
+            "typeId": 160,
+            "x": 63,
+            "y": 51,
+            "itemName": "table",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "c52bace8-a3a0-431c-a729-ccac52d60153"
+                }
+            ]
+        },
+        {
+            "uniqueId": "8ae17f0a-d9b5-4d99-b72f-37e6c380e672",
+            "typeId": 78,
+            "x": 64,
+            "y": 53,
+            "itemName": "cafe customer seating",
+            "attributes": []
+        },
+        {
+            "uniqueId": "a6f7e8c3-ce35-4e27-b6a0-29a175f65437",
+            "typeId": 78,
+            "x": 59,
+            "y": 53,
+            "itemName": "cafe customer seating",
+            "attributes": []
+        },
+        {
+            "uniqueId": "42ac6af5-6608-475c-8cc5-fb8e4d92249d",
+            "typeId": 86,
+            "x": 88,
+            "y": 49,
+            "itemName": "cash register",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "13c292af-dc59-4571-ab2c-b79f88d268f7,263ab597-0208-4852-b4ef-afd6702d04c8"
+                }
+            ]
+        },
+        {
+            "uniqueId": "da99ed15-da45-4fdd-942e-e7a981252d4b",
+            "typeId": 107,
+            "x": 61,
+            "y": 56,
+            "itemName": "cushion",
+            "attributes": []
+        },
+        {
+            "uniqueId": "efd03889-e597-46ff-b30f-e3332f3204de",
+            "typeId": 107,
+            "x": 64,
+            "y": 56,
+            "itemName": "cushion",
+            "attributes": []
+        },
+        {
+            "uniqueId": "42b2d826-1c52-4226-baf4-608e31bb0cc2",
+            "typeId": 4,
+            "x": 52,
+            "y": 53,
+            "itemName": "desk",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "f5f9f7ce-ce73-433c-8181-836b8a5f61cf,8c277370-e71d-4b5e-9c3e-f3c6d4b8addc"
+                }
+            ]
+        },
+        {
+            "uniqueId": "ae93e13b-eeff-47a9-b872-dae0c1d1d952",
+            "typeId": 24,
+            "x": 49,
+            "y": 51,
+            "itemName": "sink",
+            "attributes": []
+        },
+        {
+            "uniqueId": "c0c79253-bbf6-4605-be16-d1cda7ca8c56",
+            "typeId": 74,
+            "x": -1,
+            "y": -1,
+            "itemName": "egg",
+            "attributes": []
+        },
+        {
+            "uniqueId": "d93b6dbc-82d2-4f6e-a368-77267ea85b9d",
+            "typeId": 26,
+            "x": -1,
+            "y": -1,
+            "itemName": "milk",
+            "attributes": []
+        },
+        {
+            "uniqueId": "b1fa22bd-30a0-45c5-a661-1738531fe7da",
+            "typeId": 85,
+            "x": -1,
+            "y": -1,
+            "itemName": "coffee",
+            "attributes": []
+        },
+        {
+            "uniqueId": "00490031-62f6-421a-a442-98e1523243ac",
+            "typeId": 85,
+            "x": -1,
+            "y": -1,
+            "itemName": "coffee",
+            "attributes": []
+        },
+        {
+            "uniqueId": "6eb050de-3915-4088-a7f0-248bc8420b26",
+            "typeId": 54,
+            "x": -1,
+            "y": -1,
+            "itemName": "cake",
+            "attributes": []
+        },
+        {
+            "uniqueId": "c52bace8-a3a0-431c-a729-ccac52d60153",
+            "typeId": 68,
+            "x": -1,
+            "y": -1,
+            "itemName": "bread",
+            "attributes": []
+        },
+        {
+            "uniqueId": "f5d85235-fdec-4025-a487-2fd5a9512273",
+            "typeId": 18,
+            "x": 81,
+            "y": 34,
+            "itemName": "cafe customer seating",
+            "attributes": []
+        },
+        {
+            "uniqueId": "9e7ee29a-5514-4f81-9ac2-74773a7ba9e5",
+            "typeId": 24,
+            "x": 81,
+            "y": 32,
+            "itemName": "kitchen_sink",
+            "attributes": []
+        },
+        {
+            "uniqueId": "cb4e2ae1-92f0-41e9-bfca-d5c064678afe",
+            "typeId": 24,
+            "x": 60,
+            "y": 32,
+            "itemName": "sink",
+            "attributes": []
+        },
+        {
+            "uniqueId": "c93225c4-8a4d-4fc2-8f28-24911681975d",
+            "typeId": 28,
+            "x": 73,
+            "y": 31,
+            "itemName": "cafe refrigerator",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "29705b2b-d236-416f-8aad-00092e6ace4b,4cdc0fda-cf26-4e58-9ae5-0d596c312ca3"
+                }
+            ]
+        },
+        {
+            "uniqueId": "b2237f29-84c8-4dc5-97b6-7e398bdfaef1",
+            "typeId": 160,
+            "x": 93,
+            "y": 35,
+            "itemName": "table",
+            "attributes": []
+        },
+        {
+            "uniqueId": "bf2b5b83-9a71-4441-b9dc-c90929137f36",
+            "typeId": 160,
+            "x": 86,
+            "y": 35,
+            "itemName": "table",
+            "attributes": []
+        },
+        {
+            "uniqueId": "16883cb7-d053-4248-b7c5-347bfa991681",
+            "typeId": 160,
+            "x": 78,
+            "y": 36,
+            "itemName": "table",
+            "attributes": []
+        },
+        {
+            "uniqueId": "e16c6a6d-9eeb-4e3c-b839-ada7117e8bd1",
+            "typeId": 160,
+            "x": 52,
+            "y": 32,
+            "itemName": "table",
+            "attributes": []
+        },
+        {
+            "uniqueId": "91a23bb3-4293-47d9-ae41-9e8b7f4018a2",
+            "typeId": 7,
+            "x": 52,
+            "y": 35,
+            "itemName": "piano",
+            "attributes": []
+        },
+        {
+            "uniqueId": "7e34f370-b90b-48c2-a42d-eb6959e32eec",
+            "typeId": 28,
+            "x": 60,
+            "y": 34,
+            "itemName": "refrigerator",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "138dabeb-ad4d-4ce5-af8e-e0a0dc55f534,4916772c-89ef-49cb-934e-2d486aace179"
+                }
+            ]
+        },
+        {
+            "uniqueId": "aaa9c232-67b8-4adc-9597-cc6c309bbc19",
+            "typeId": 160,
+            "x": 54,
+            "y": 32,
+            "itemName": "table",
+            "attributes": []
+        },
+        {
+            "uniqueId": "b30780a4-cab4-49a4-9990-41b74f2311d1",
+            "typeId": 7,
+            "x": 73,
+            "y": 35,
+            "itemName": "piano",
+            "attributes": []
+        },
+        {
+            "uniqueId": "b6d28608-767a-4078-9974-e31e2e159835",
+            "typeId": 18,
+            "x": 81,
+            "y": 36,
+            "itemName": "cafe customer seating",
+            "attributes": []
+        },
+        {
+            "uniqueId": "649b98b8-848d-4076-bee5-3afb7a8b6766",
+            "typeId": 20,
+            "x": 33,
+            "y": 50,
+            "itemName": "flowers",
+            "attributes": []
+        },
+        {
+            "uniqueId": "732cf6f7-27ac-43dc-946c-1b95233dfc28",
+            "typeId": 20,
+            "x": 33,
+            "y": 52,
+            "itemName": "flowers",
+            "attributes": []
+        },
+        {
+            "uniqueId": "a5f9ab7c-d7cd-46f7-ab61-85302e8eee90",
+            "typeId": 20,
+            "x": 33,
+            "y": 54,
+            "itemName": "flowers",
+            "attributes": []
+        },
+        {
+            "uniqueId": "e24eeb28-d8c1-4592-9630-df3001feb4af",
+            "typeId": 78,
+            "x": 28,
+            "y": 50,
+            "itemName": "bench",
+            "attributes": []
+        },
+        {
+            "uniqueId": "959e8a6b-d28d-4ee6-ab0d-0577ace846f8",
+            "typeId": 78,
+            "x": 28,
+            "y": 52,
+            "itemName": "bench",
+            "attributes": []
+        },
+        {
+            "uniqueId": "079e3749-6d2f-449f-8555-9a869199f5d3",
+            "typeId": 78,
+            "x": 28,
+            "y": 54,
+            "itemName": "bench",
+            "attributes": []
+        },
+        {
+            "uniqueId": "c0adf1db-30c4-4f61-b0a7-31291c4f98a3",
+            "typeId": 27,
+            "x": 21,
+            "y": 50,
+            "itemName": "chair",
+            "attributes": []
+        },
+        {
+            "uniqueId": "dcb98db6-6822-48fd-b6f4-7d495b4e2f2d",
+            "typeId": 27,
+            "x": 21,
+            "y": 52,
+            "itemName": "chair",
+            "attributes": []
+        },
+        {
+            "uniqueId": "9fe7ee6b-fc6f-48f3-99bf-f703f8cd3a8b",
+            "typeId": 27,
+            "x": 21,
+            "y": 54,
+            "itemName": "chair",
+            "attributes": []
+        },
+        {
+            "uniqueId": "a26d055c-ea2c-4d8f-942c-135dbb9d728f",
+            "typeId": 122,
+            "x": 97,
+            "y": 81,
+            "itemName": "guitar",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "4890cfde-2778-4af5-8625-dac681e73c23,cf8f41d3-76b3-4db9-aaa4-7aa3cecf1ecc"
+                }
+            ]
+        },
+        {
+            "uniqueId": "f41b6a85-cfb1-486f-aa97-de9707771924",
+            "typeId": 62,
+            "x": 62,
+            "y": 37,
+            "itemName": "microphone stand",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "e9c1ae58-b055-4c3e-b1dd-da472adfa7d4"
+                }
+            ]
+        },
+        {
+            "uniqueId": "e9c1ae58-b055-4c3e-b1dd-da472adfa7d4",
+            "typeId": 64,
+            "x": -1,
+            "y": -1,
+            "itemName": "microphone",
+            "attributes": []
+        },
+        {
+            "uniqueId": "7f0f994d-4432-4170-9502-ee656441d486",
+            "typeId": 18,
+            "x": 56,
+            "y": 37,
+            "itemName": "bar customer seating",
+            "attributes": []
+        },
+        {
+            "uniqueId": "af5236f0-ecc2-4303-8a04-8396a54cccb9",
+            "typeId": 18,
+            "x": 58,
+            "y": 37,
+            "itemName": "bar customer seating",
+            "attributes": []
+        },
+        {
+            "uniqueId": "51a6165d-19b2-4515-9821-fcc804619b06",
+            "typeId": 18,
+            "x": 60,
+            "y": 37,
+            "itemName": "bar customer seating",
+            "attributes": []
+        },
+        {
+            "uniqueId": "cdb34d44-f66a-47fb-9420-e6d79dca1627",
+            "typeId": 27,
+            "x": 16,
+            "y": 28,
+            "itemName": "chair",
+            "attributes": []
+        },
+        {
+            "uniqueId": "6367b77c-b266-42c9-b553-557ae7c61a76",
+            "typeId": 27,
+            "x": 27,
+            "y": 28,
+            "itemName": "chair",
+            "attributes": []
+        },
+        {
+            "uniqueId": "7026df83-34e3-49e5-8992-ed18f54afecf",
+            "typeId": 27,
+            "x": 18,
+            "y": 38,
+            "itemName": "chair",
+            "attributes": []
+        },
+        {
+            "uniqueId": "37c3bcfd-8a52-40ed-a8c7-41d68994e541",
+            "typeId": 27,
+            "x": 35,
+            "y": 28,
+            "itemName": "chair",
+            "attributes": []
+        },
+        {
+            "uniqueId": "f21b094c-7c29-440b-aed6-b99392e74908",
+            "typeId": 27,
+            "x": 28,
+            "y": 38,
+            "itemName": "chair",
+            "attributes": []
+        },
+        {
+            "uniqueId": "9d7fc073-7215-460b-a102-2b0935a3c4b2",
+            "typeId": 90,
+            "x": 118,
+            "y": 55,
+            "itemName": "dumbbell",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "da16b81f-bef2-4ebf-b8ac-3a70c03d4952"
+                }
+            ]
+        },
+        {
+            "uniqueId": "f2390195-78ea-4222-af62-85f10f906039",
+            "typeId": 53,
+            "x": 15,
+            "y": 29,
+            "itemName": "computer",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "a3b86ae4-dcd1-4ff4-9fcf-624d6d830e60,89c91818-86c2-42cd-b13f-e1b957547cf5"
+                }
+            ]
+        },
+        {
+            "uniqueId": "8a5dfef6-559d-4a7b-8ca0-bb4f5630474e",
+            "typeId": 53,
+            "x": 20,
+            "y": 69,
+            "itemName": "monitor",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "e73bebb0-a2b3-4cae-8611-c450022ff65c,35fedcaf-c207-4b83-92d2-bac33c3f735f"
+                }
+            ]
+        },
+        {
+            "uniqueId": "40c89a52-a433-4b18-8bfb-8273b39a20af",
+            "typeId": 53,
+            "x": 27,
+            "y": 69,
+            "itemName": "monitor",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "ffab6a74-6777-4353-98b2-1b055b86c46b,4b041b14-cd0c-4b01-b6b2-699e6c9167f4"
+                }
+            ]
+        },
+        {
+            "uniqueId": "c67b8da5-bf31-4c46-82fc-0d7b158d1ed9",
+            "typeId": 53,
+            "x": 76,
+            "y": 74,
+            "itemName": "computer",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "2493bfc2-00c8-4b50-8baa-2d65d124cc36,8a6bff67-6b5e-45cd-b397-df65ee5b85c9"
+                }
+            ]
+        },
+        {
+            "uniqueId": "96b963d9-d860-4434-b48e-19628f7211b0",
+            "typeId": 67,
+            "x": -1,
+            "y": -1,
+            "itemName": "guitar pick",
+            "attributes": []
+        },
+        {
+            "uniqueId": "752aad5b-edda-4711-935f-d4503b99fbfe",
+            "typeId": 49,
+            "x": -1,
+            "y": -1,
+            "itemName": "guitar tuner",
+            "attributes": []
+        },
+        {
+            "uniqueId": "a3b86ae4-dcd1-4ff4-9fcf-624d6d830e60",
+            "typeId": 51,
+            "x": -1,
+            "y": -1,
+            "itemName": "controller",
+            "attributes": []
+        },
+        {
+            "uniqueId": "89c91818-86c2-42cd-b13f-e1b957547cf5",
+            "typeId": 63,
+            "x": -1,
+            "y": -1,
+            "itemName": "keyboard",
+            "attributes": []
+        },
+        {
+            "uniqueId": "f5f9f7ce-ce73-433c-8181-836b8a5f61cf",
+            "typeId": 21,
+            "x": -1,
+            "y": -1,
+            "itemName": "notebooks",
+            "attributes": []
+        },
+        {
+            "uniqueId": "8c277370-e71d-4b5e-9c3e-f3c6d4b8addc",
+            "typeId": 23,
+            "x": -1,
+            "y": -1,
+            "itemName": "menu",
+            "attributes": []
+        },
+        {
+            "uniqueId": "4a39324d-4f0a-4987-8399-8d24df6f6b5c",
+            "typeId": 60,
+            "x": -1,
+            "y": -1,
+            "itemName": "lamp",
+            "attributes": []
+        },
+        {
+            "uniqueId": "beba414e-6b8a-4687-a5f2-2f1f3a6a2d4e",
+            "typeId": 60,
+            "x": -1,
+            "y": -1,
+            "itemName": "lamp",
+            "attributes": []
+        },
+        {
+            "uniqueId": "deb4f674-0328-4092-8688-b5efdabcc9a5",
+            "typeId": 12,
+            "x": -1,
+            "y": -1,
+            "itemName": "magazine",
+            "attributes": []
+        },
+        {
+            "uniqueId": "339cb9be-7bbc-4aa4-96a0-0ced19c9842a",
+            "typeId": 60,
+            "x": -1,
+            "y": -1,
+            "itemName": "lamp",
+            "attributes": []
+        },
+        {
+            "uniqueId": "fb1b0670-c2dc-40bb-b098-1599ebf43f11",
+            "typeId": 12,
+            "x": -1,
+            "y": -1,
+            "itemName": "magazine",
+            "attributes": []
+        },
+        {
+            "uniqueId": "c15fe2de-eb49-4513-85b7-b2b2527d2c00",
+            "typeId": 60,
+            "x": -1,
+            "y": -1,
+            "itemName": "lamp",
+            "attributes": []
+        },
+        {
+            "uniqueId": "162b3648-4ce0-40da-ad89-05c5d3581642",
+            "typeId": 12,
+            "x": -1,
+            "y": -1,
+            "itemName": "magazine",
+            "attributes": []
+        },
+        {
+            "uniqueId": "2493bfc2-00c8-4b50-8baa-2d65d124cc36",
+            "typeId": 51,
+            "x": -1,
+            "y": -1,
+            "itemName": "controller",
+            "attributes": []
+        },
+        {
+            "uniqueId": "8a6bff67-6b5e-45cd-b397-df65ee5b85c9",
+            "typeId": 63,
+            "x": -1,
+            "y": -1,
+            "itemName": "keyboard",
+            "attributes": []
+        },
+        {
+            "uniqueId": "f071c471-3027-4561-a156-ebf5bc3a9542",
+            "typeId": 26,
+            "x": -1,
+            "y": -1,
+            "itemName": "milk",
+            "attributes": []
+        },
+        {
+            "uniqueId": "f4e315d6-73a7-4b24-95a7-d5aa0de9cee7",
+            "typeId": 68,
+            "x": -1,
+            "y": -1,
+            "itemName": "bread",
+            "attributes": []
+        },
+        {
+            "uniqueId": "a4f14d23-2bce-467a-9d98-83ee303db9b3",
+            "typeId": 68,
+            "x": -1,
+            "y": -1,
+            "itemName": "bread",
+            "attributes": []
+        },
+        {
+            "uniqueId": "1ac1f41c-399f-43f3-b305-4fbd2519e5e4",
+            "typeId": 105,
+            "x": -1,
+            "y": -1,
+            "itemName": "canned food",
+            "attributes": []
+        },
+        {
+            "uniqueId": "da16b81f-bef2-4ebf-b8ac-3a70c03d4952",
+            "typeId": 34,
+            "x": -1,
+            "y": -1,
+            "itemName": "weight plates",
+            "attributes": []
+        },
+        {
+            "uniqueId": "53bce9da-0a51-42db-9d76-0ea7b811ccdc",
+            "typeId": 29,
+            "x": 126,
+            "y": 61,
+            "itemName": "shower",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "9d734433-7cfd-4635-9676-15dcad20de0c"
+                }
+            ]
+        },
+        {
+            "uniqueId": "9d734433-7cfd-4635-9676-15dcad20de0c",
+            "typeId": 15,
+            "x": -1,
+            "y": -1,
+            "itemName": "shampoo",
+            "attributes": []
+        },
+        {
+            "uniqueId": "db85d8ee-82b3-41a9-bcfa-e1c827e69b3c",
+            "typeId": 22,
+            "x": -1,
+            "y": -1,
+            "itemName": "chalk",
+            "attributes": []
+        },
+        {
+            "uniqueId": "5f66040e-f062-45f6-acb3-df4162b5b908",
+            "typeId": 22,
+            "x": -1,
+            "y": -1,
+            "itemName": "chalk",
+            "attributes": []
+        },
+        {
+            "uniqueId": "49dcb876-3a34-463e-bf34-dfc5a976a9b7",
+            "typeId": 12,
+            "x": -1,
+            "y": -1,
+            "itemName": "magazine",
+            "attributes": []
+        },
+        {
+            "uniqueId": "826aff2c-56cf-465d-b240-ea45ded2650a",
+            "typeId": 87,
+            "x": -1,
+            "y": -1,
+            "itemName": "medicine",
+            "attributes": []
+        },
+        {
+            "uniqueId": "b73b4da6-b2a3-4eed-9151-395ea25cc6ea",
+            "typeId": 12,
+            "x": -1,
+            "y": -1,
+            "itemName": "magazine",
+            "attributes": []
+        },
+        {
+            "uniqueId": "e8ebc43b-d375-4813-a6bb-fb930626e77c",
+            "typeId": 12,
+            "x": -1,
+            "y": -1,
+            "itemName": "magazine",
+            "attributes": []
+        },
+        {
+            "uniqueId": "ffab6a74-6777-4353-98b2-1b055b86c46b",
+            "typeId": 76,
+            "x": -1,
+            "y": -1,
+            "itemName": "mouse",
+            "attributes": []
+        },
+        {
+            "uniqueId": "4b041b14-cd0c-4b01-b6b2-699e6c9167f4",
+            "typeId": 63,
+            "x": -1,
+            "y": -1,
+            "itemName": "keyboard",
+            "attributes": []
+        },
+        {
+            "uniqueId": "e73bebb0-a2b3-4cae-8611-c450022ff65c",
+            "typeId": 63,
+            "x": -1,
+            "y": -1,
+            "itemName": "keyboard",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "fb1f84e0-c92f-4aef-9aa6-52d408bf6e21,f68f5898-f7b5-4df1-abd3-8c41ca843a30"
+                }
+            ]
+        },
+        {
+            "uniqueId": "fb1f84e0-c92f-4aef-9aa6-52d408bf6e21",
+            "typeId": 76,
+            "x": -1,
+            "y": -1,
+            "itemName": "mouse",
+            "attributes": []
+        },
+        {
+            "uniqueId": "f68f5898-f7b5-4df1-abd3-8c41ca843a30",
+            "typeId": 76,
+            "x": -1,
+            "y": -1,
+            "itemName": "mouse",
+            "attributes": []
+        },
+        {
+            "uniqueId": "35fedcaf-c207-4b83-92d2-bac33c3f735f",
+            "typeId": 76,
+            "x": -1,
+            "y": -1,
+            "itemName": "mouse",
+            "attributes": []
+        },
+        {
+            "uniqueId": "72ac4b0f-4d13-41b2-9733-cfbe628a352c",
+            "typeId": 55,
+            "x": 52,
+            "y": 38,
+            "itemName": "piano bench",
+            "attributes": []
+        },
+        {
+            "uniqueId": "23aeb6ba-1e32-420a-8b92-f00e3a9a8bd7",
+            "typeId": 55,
+            "x": 73,
+            "y": 38,
+            "itemName": "piano bench",
+            "attributes": []
+        },
+        {
+            "uniqueId": "40f32a3a-0105-4a22-8138-05929f555aa2",
+            "typeId": 17,
+            "x": 54,
+            "y": 26,
+            "itemName": "closet",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "a092be70-be62-484a-b57b-15731c1cd11c"
+                }
+            ]
+        },
+        {
+            "uniqueId": "46cc3764-506e-44f3-83f6-188e1ea7fb00",
+            "typeId": 36,
+            "x": 75,
+            "y": 26,
+            "itemName": "closet2",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "a45d092a-87e0-428b-be9e-b80ac6c1dac2"
+                }
+            ]
+        },
+        {
+            "uniqueId": "020eece6-b58d-4f4f-96a5-31c1e15eae4f",
+            "typeId": 160,
+            "x": 78,
+            "y": 26,
+            "itemName": "table",
+            "attributes": []
+        },
+        {
+            "uniqueId": "b9569c40-eed7-4ff1-a708-126e097f4aa2",
+            "typeId": 160,
+            "x": 56,
+            "y": 26,
+            "itemName": "table",
+            "attributes": []
+        },
+        {
+            "uniqueId": "22cbe320-19fd-402e-a7cf-d1e200605f76",
+            "typeId": 67,
+            "x": -1,
+            "y": -1,
+            "itemName": "guitar pick",
+            "attributes": []
+        },
+        {
+            "uniqueId": "212a155a-c63b-4c60-b9fb-f11056afdc97",
+            "typeId": 56,
+            "x": -1,
+            "y": -1,
+            "itemName": "hangers",
+            "attributes": []
+        },
+        {
+            "uniqueId": "12d83632-0fc1-4426-9ea8-e658e79125ee",
+            "typeId": 56,
+            "x": -1,
+            "y": -1,
+            "itemName": "hangers",
+            "attributes": []
+        },
+        {
+            "uniqueId": "4d0ac006-1905-4c08-8703-32a14ef7c998",
+            "typeId": 56,
+            "x": -1,
+            "y": -1,
+            "itemName": "hangers",
+            "attributes": []
+        },
+        {
+            "uniqueId": "51baea16-6582-457c-8287-3866d6076b3b",
+            "typeId": 56,
+            "x": -1,
+            "y": -1,
+            "itemName": "hangers",
+            "attributes": []
+        },
+        {
+            "uniqueId": "3d0acea5-88a7-4ee9-9902-11542fc74ef6",
+            "typeId": 56,
+            "x": -1,
+            "y": -1,
+            "itemName": "hangers",
+            "attributes": []
+        },
+        {
+            "uniqueId": "607981c5-9e97-4f00-8bfc-09ddad48aa22",
+            "typeId": 81,
+            "x": -1,
+            "y": -1,
+            "itemName": "pillows",
+            "attributes": []
+        },
+        {
+            "uniqueId": "eeeba93f-0ceb-46ee-81d6-2cb727ba788b",
+            "typeId": 81,
+            "x": -1,
+            "y": -1,
+            "itemName": "pillows",
+            "attributes": []
+        },
+        {
+            "uniqueId": "51f2007a-51c0-42e8-9f5e-ce939dd0da79",
+            "typeId": 81,
+            "x": -1,
+            "y": -1,
+            "itemName": "pillows",
+            "attributes": []
+        },
+        {
+            "uniqueId": "8dc20587-592d-4aa9-b2a0-569419fb08df",
+            "typeId": 81,
+            "x": -1,
+            "y": -1,
+            "itemName": "pillows",
+            "attributes": []
+        },
+        {
+            "uniqueId": "3cad7109-9e49-4612-854e-0f1bef133aa9",
+            "typeId": 81,
+            "x": -1,
+            "y": -1,
+            "itemName": "pillows",
+            "attributes": []
+        },
+        {
+            "uniqueId": "39d7e707-74fa-4a40-82d5-9bffd0f9a50b",
+            "typeId": 81,
+            "x": -1,
+            "y": -1,
+            "itemName": "pillows",
+            "attributes": []
+        },
+        {
+            "uniqueId": "ef20962c-e567-446c-a290-a35fc9f9015e",
+            "typeId": 81,
+            "x": -1,
+            "y": -1,
+            "itemName": "pillows",
+            "attributes": []
+        },
+        {
+            "uniqueId": "e3e450d1-9441-4e39-be41-a285e1f7189d",
+            "typeId": 81,
+            "x": -1,
+            "y": -1,
+            "itemName": "pillows",
+            "attributes": []
+        },
+        {
+            "uniqueId": "0c84f7a3-6b2d-4ee5-9c93-2d74bfdd2fe0",
+            "typeId": 81,
+            "x": -1,
+            "y": -1,
+            "itemName": "pillows",
+            "attributes": []
+        },
+        {
+            "uniqueId": "362fc06f-8281-4937-9667-92f25593bed2",
+            "typeId": 81,
+            "x": -1,
+            "y": -1,
+            "itemName": "pillows",
+            "attributes": []
+        },
+        {
+            "uniqueId": "2a3ef340-d898-4643-a475-ea0b25acb48a",
+            "typeId": 81,
+            "x": -1,
+            "y": -1,
+            "itemName": "pillows",
+            "attributes": []
+        },
+        {
+            "uniqueId": "a7e3f5fe-2a93-4d26-91f1-0794babb2f67",
+            "typeId": 81,
+            "x": -1,
+            "y": -1,
+            "itemName": "pillows",
+            "attributes": []
+        },
+        {
+            "uniqueId": "1cd1c9ea-693a-48d5-b704-07c65a1794d1",
+            "typeId": 81,
+            "x": -1,
+            "y": -1,
+            "itemName": "pillows",
+            "attributes": []
+        },
+        {
+            "uniqueId": "78e59e31-c3f9-4459-9c47-6721f8dbab34",
+            "typeId": 81,
+            "x": -1,
+            "y": -1,
+            "itemName": "pillows",
+            "attributes": []
+        },
+        {
+            "uniqueId": "565f0826-b78c-468b-a347-d4dbfa293493",
+            "typeId": 81,
+            "x": -1,
+            "y": -1,
+            "itemName": "pillows",
+            "attributes": []
+        },
+        {
+            "uniqueId": "0d6452b5-0f76-46d7-a8d2-494eebb1ccaa",
+            "typeId": 81,
+            "x": -1,
+            "y": -1,
+            "itemName": "pillows",
+            "attributes": []
+        },
+        {
+            "uniqueId": "5d5137a0-3bd9-4707-ba22-ffb22e38f707",
+            "typeId": 81,
+            "x": -1,
+            "y": -1,
+            "itemName": "pillows",
+            "attributes": []
+        },
+        {
+            "uniqueId": "df480624-d3d9-4e8a-a702-53ff7df08474",
+            "typeId": 81,
+            "x": -1,
+            "y": -1,
+            "itemName": "pillows",
+            "attributes": []
+        },
+        {
+            "uniqueId": "d63920e6-35ca-47ce-b564-fcb39e726f89",
+            "typeId": 81,
+            "x": -1,
+            "y": -1,
+            "itemName": "pillows",
+            "attributes": []
+        },
+        {
+            "uniqueId": "d0e81d66-5b27-4756-903e-18d3011c5bd7",
+            "typeId": 81,
+            "x": -1,
+            "y": -1,
+            "itemName": "pillows",
+            "attributes": []
+        },
+        {
+            "uniqueId": "b24c1f04-f460-4b57-bac9-a1ef00200c23",
+            "typeId": 81,
+            "x": -1,
+            "y": -1,
+            "itemName": "pillows",
+            "attributes": []
+        },
+        {
+            "uniqueId": "9b6b6acc-02cd-4eb7-9631-9951386611ca",
+            "typeId": 81,
+            "x": -1,
+            "y": -1,
+            "itemName": "pillows",
+            "attributes": []
+        },
+        {
+            "uniqueId": "d49e86ff-5123-46f9-acd2-d8da021c4d7b",
+            "typeId": 81,
+            "x": -1,
+            "y": -1,
+            "itemName": "pillows",
+            "attributes": []
+        },
+        {
+            "uniqueId": "24b39b84-58d7-4903-9a82-7aa17f985923",
+            "typeId": 56,
+            "x": -1,
+            "y": -1,
+            "itemName": "hangers",
+            "attributes": []
+        },
+        {
+            "uniqueId": "181bc6b3-9c84-43ea-a058-785a5f99ea41",
+            "typeId": 56,
+            "x": -1,
+            "y": -1,
+            "itemName": "hangers",
+            "attributes": []
+        },
+        {
+            "uniqueId": "6c391f0f-46da-4d08-9e8c-31900a9fe46c",
+            "typeId": 56,
+            "x": -1,
+            "y": -1,
+            "itemName": "hangers",
+            "attributes": []
+        },
+        {
+            "uniqueId": "8da0cf45-54b6-4745-85cc-bff3864cdb75",
+            "typeId": 56,
+            "x": -1,
+            "y": -1,
+            "itemName": "hangers",
+            "attributes": []
+        },
+        {
+            "uniqueId": "1d3cd037-e596-4a38-bf98-c01407d03ae8",
+            "typeId": 56,
+            "x": -1,
+            "y": -1,
+            "itemName": "hangers",
+            "attributes": []
+        },
+        {
+            "uniqueId": "a9ff8086-9eb5-42b6-b119-89dfbc048f54",
+            "typeId": 56,
+            "x": -1,
+            "y": -1,
+            "itemName": "hangers",
+            "attributes": []
+        },
+        {
+            "uniqueId": "5065fe97-ebf5-49c0-9127-e85c5bca6bb5",
+            "typeId": 56,
+            "x": -1,
+            "y": -1,
+            "itemName": "hangers",
+            "attributes": []
+        },
+        {
+            "uniqueId": "8cd6c06a-a607-433a-a0e9-89b68ed8f02a",
+            "typeId": 56,
+            "x": -1,
+            "y": -1,
+            "itemName": "hangers",
+            "attributes": []
+        },
+        {
+            "uniqueId": "a092be70-be62-484a-b57b-15731c1cd11c",
+            "typeId": 56,
+            "x": -1,
+            "y": -1,
+            "itemName": "hangers",
+            "attributes": []
+        },
+        {
+            "uniqueId": "af077255-1657-4368-a15b-f9388adf84ff",
+            "typeId": 56,
+            "x": -1,
+            "y": -1,
+            "itemName": "hangers",
+            "attributes": []
+        },
+        {
+            "uniqueId": "158c182a-72b2-4ea6-9822-892295829e1b",
+            "typeId": 56,
+            "x": -1,
+            "y": -1,
+            "itemName": "hangers",
+            "attributes": []
+        },
+        {
+            "uniqueId": "9a898705-2327-4c44-bdd7-06b8cd161cc5",
+            "typeId": 56,
+            "x": -1,
+            "y": -1,
+            "itemName": "hangers",
+            "attributes": []
+        },
+        {
+            "uniqueId": "03637a3e-1549-4fca-b8bd-0018323dbcf4",
+            "typeId": 56,
+            "x": -1,
+            "y": -1,
+            "itemName": "hangers",
+            "attributes": []
+        },
+        {
+            "uniqueId": "df1f301b-0fca-4f3c-8e17-e23754db4fa8",
+            "typeId": 15,
+            "x": -1,
+            "y": -1,
+            "itemName": "shampoo",
+            "attributes": []
+        },
+        {
+            "uniqueId": "b69660bd-31ab-4662-9128-55f723388d7e",
+            "typeId": 15,
+            "x": -1,
+            "y": -1,
+            "itemName": "shampoo",
+            "attributes": []
+        },
+        {
+            "uniqueId": "9d9d258e-4041-4f5a-8860-a4545c84d09f",
+            "typeId": 15,
+            "x": -1,
+            "y": -1,
+            "itemName": "shampoo",
+            "attributes": []
+        },
+        {
+            "uniqueId": "7d680cdb-5218-414d-9d31-b67d5174cedf",
+            "typeId": 15,
+            "x": -1,
+            "y": -1,
+            "itemName": "shampoo",
+            "attributes": []
+        },
+        {
+            "uniqueId": "9b77641e-fb7f-47f4-ac57-0ebac63f34b4",
+            "typeId": 15,
+            "x": -1,
+            "y": -1,
+            "itemName": "shampoo",
+            "attributes": []
+        },
+        {
+            "uniqueId": "99658774-7dff-4c1e-af84-d8fad290a6dd",
+            "typeId": 15,
+            "x": -1,
+            "y": -1,
+            "itemName": "shampoo",
+            "attributes": []
+        },
+        {
+            "uniqueId": "6aa96bab-3873-4abd-bb4f-dc7cb0b2162b",
+            "typeId": 15,
+            "x": -1,
+            "y": -1,
+            "itemName": "shampoo",
+            "attributes": []
+        },
+        {
+            "uniqueId": "370bc604-2e41-4faa-b66a-1dfa112454a1",
+            "typeId": 15,
+            "x": -1,
+            "y": -1,
+            "itemName": "shampoo",
+            "attributes": []
+        },
+        {
+            "uniqueId": "5f00e8cc-87a0-41fd-a6fa-76a426be0984",
+            "typeId": 15,
+            "x": -1,
+            "y": -1,
+            "itemName": "shampoo",
+            "attributes": []
+        },
+        {
+            "uniqueId": "6ac42138-adfa-4053-bd46-5dba22e2cacb",
+            "typeId": 15,
+            "x": -1,
+            "y": -1,
+            "itemName": "shampoo",
+            "attributes": []
+        },
+        {
+            "uniqueId": "a45d092a-87e0-428b-be9e-b80ac6c1dac2",
+            "typeId": 41,
+            "x": -1,
+            "y": -1,
+            "itemName": "clothes",
+            "attributes": []
+        },
+        {
+            "uniqueId": "0d543d6a-3d8c-411c-9b1a-dbed6713a4a4",
+            "typeId": 15,
+            "x": -1,
+            "y": -1,
+            "itemName": "shampoo",
+            "attributes": []
+        },
+        {
+            "uniqueId": "5f6723cd-ac40-4ec7-9fa1-b92787fb10e8",
+            "typeId": 15,
+            "x": -1,
+            "y": -1,
+            "itemName": "shampoo",
+            "attributes": []
+        },
+        {
+            "uniqueId": "3eded015-c33c-43df-93af-3f6232f12cbd",
+            "typeId": 39,
+            "x": -1,
+            "y": -1,
+            "itemName": "dish soap",
+            "attributes": []
+        },
+        {
+            "uniqueId": "c22994de-02a2-4d1a-8b30-35d7340ef558",
+            "typeId": 39,
+            "x": -1,
+            "y": -1,
+            "itemName": "dish soap",
+            "attributes": []
+        },
+        {
+            "uniqueId": "f6805c83-150e-4bbf-bfdc-f818cde117af",
+            "typeId": 39,
+            "x": -1,
+            "y": -1,
+            "itemName": "dish soap",
+            "attributes": []
+        },
+        {
+            "uniqueId": "5a534bf1-376e-4923-9df2-0a175eb86334",
+            "typeId": 47,
+            "x": -1,
+            "y": -1,
+            "itemName": "remote control",
+            "attributes": []
+        },
+        {
+            "uniqueId": "b1cbda4c-5fdb-4906-a33f-0d78458130f4",
+            "typeId": 107,
+            "x": -1,
+            "y": -1,
+            "itemName": "cushion",
+            "attributes": []
+        },
+        {
+            "uniqueId": "8ca4607b-2722-4445-961d-e37782b6704c",
+            "typeId": 107,
+            "x": -1,
+            "y": -1,
+            "itemName": "cushion",
+            "attributes": []
+        },
+        {
+            "uniqueId": "5dcf652c-69b4-4d5c-9dd9-33349410ecd6",
+            "typeId": 107,
+            "x": -1,
+            "y": -1,
+            "itemName": "cushion",
+            "attributes": []
+        },
+        {
+            "uniqueId": "7dce04dc-6ac7-4c05-9f1c-a1e7641fee45",
+            "typeId": 47,
+            "x": -1,
+            "y": -1,
+            "itemName": "remote control",
+            "attributes": []
+        },
+        {
+            "uniqueId": "2c24537e-0592-4098-918a-ebc794bf9c71",
+            "typeId": 47,
+            "x": -1,
+            "y": -1,
+            "itemName": "remote control",
+            "attributes": []
+        },
+        {
+            "uniqueId": "2fc88730-542a-4a72-85e2-98fbc4794d35",
+            "typeId": 26,
+            "x": -1,
+            "y": -1,
+            "itemName": "milk",
+            "attributes": []
+        },
+        {
+            "uniqueId": "f72de734-2364-4768-88f5-bffe6d747800",
+            "typeId": 26,
+            "x": -1,
+            "y": -1,
+            "itemName": "milk",
+            "attributes": []
+        },
+        {
+            "uniqueId": "29705b2b-d236-416f-8aad-00092e6ace4b",
+            "typeId": 26,
+            "x": -1,
+            "y": -1,
+            "itemName": "milk",
+            "attributes": []
+        },
+        {
+            "uniqueId": "4cdc0fda-cf26-4e58-9ae5-0d596c312ca3",
+            "typeId": 74,
+            "x": -1,
+            "y": -1,
+            "itemName": "egg",
+            "attributes": []
+        },
+        {
+            "uniqueId": "138dabeb-ad4d-4ce5-af8e-e0a0dc55f534",
+            "typeId": 74,
+            "x": -1,
+            "y": -1,
+            "itemName": "egg",
+            "attributes": []
+        },
+        {
+            "uniqueId": "bb6a1530-5ed0-4db2-8eaa-fa4fe888dac3",
+            "typeId": 74,
+            "x": -1,
+            "y": -1,
+            "itemName": "egg",
+            "attributes": []
+        },
+        {
+            "uniqueId": "086f98e2-7d21-4542-9915-ad223f2bee73",
+            "typeId": 74,
+            "x": -1,
+            "y": -1,
+            "itemName": "egg",
+            "attributes": []
+        },
+        {
+            "uniqueId": "3ab7a9c4-6519-41dd-81b0-1726ea8ab66f",
+            "typeId": 74,
+            "x": -1,
+            "y": -1,
+            "itemName": "egg",
+            "attributes": []
+        },
+        {
+            "uniqueId": "d032a090-dde2-4349-b642-32504e3072f5",
+            "typeId": 74,
+            "x": -1,
+            "y": -1,
+            "itemName": "egg",
+            "attributes": []
+        },
+        {
+            "uniqueId": "e4d3fd4f-ffd1-434d-a01b-d771a6596cec",
+            "typeId": 74,
+            "x": -1,
+            "y": -1,
+            "itemName": "egg",
+            "attributes": []
+        },
+        {
+            "uniqueId": "e1c0f92a-15db-4c34-8bb1-7fd8b9066aaa",
+            "typeId": 26,
+            "x": -1,
+            "y": -1,
+            "itemName": "milk",
+            "attributes": []
+        },
+        {
+            "uniqueId": "4916772c-89ef-49cb-934e-2d486aace179",
+            "typeId": 26,
+            "x": -1,
+            "y": -1,
+            "itemName": "milk",
+            "attributes": []
+        },
+        {
+            "uniqueId": "1ae10512-b372-482d-953d-f69edcbcc3b4",
+            "typeId": 26,
+            "x": -1,
+            "y": -1,
+            "itemName": "milk",
+            "attributes": []
+        },
+        {
+            "uniqueId": "4406e392-3a30-45f4-9e86-4c5eefa92213",
+            "typeId": 26,
+            "x": -1,
+            "y": -1,
+            "itemName": "milk",
+            "attributes": []
+        },
+        {
+            "uniqueId": "16f78de2-22e5-4ab4-bd0b-324b32289e6c",
+            "typeId": 26,
+            "x": -1,
+            "y": -1,
+            "itemName": "milk",
+            "attributes": []
+        },
+        {
+            "uniqueId": "05b0a91d-b75c-4c02-9a5b-d30f84297f52",
+            "typeId": 26,
+            "x": -1,
+            "y": -1,
+            "itemName": "milk",
+            "attributes": []
+        },
+        {
+            "uniqueId": "0bcfe34a-cb04-40ae-8488-3de814c0ff1c",
+            "typeId": 40,
+            "x": -1,
+            "y": -1,
+            "itemName": "picture frames",
+            "attributes": []
+        },
+        {
+            "uniqueId": "1a2e5f2c-71a5-43a4-9422-93bfcbb994b7",
+            "typeId": 40,
+            "x": -1,
+            "y": -1,
+            "itemName": "picture frames",
+            "attributes": []
+        },
+        {
+            "uniqueId": "13c292af-dc59-4571-ab2c-b79f88d268f7",
+            "typeId": 66,
+            "x": -1,
+            "y": -1,
+            "itemName": "prescription",
+            "attributes": []
+        },
+        {
+            "uniqueId": "263ab597-0208-4852-b4ef-afd6702d04c8",
+            "typeId": 58,
+            "x": -1,
+            "y": -1,
+            "itemName": "receipt",
+            "attributes": []
+        },
+        {
+            "uniqueId": "3a58da72-be43-4723-abdb-d2bb8a7ce0ba",
+            "typeId": 20,
+            "x": -1,
+            "y": -1,
+            "itemName": "flowers",
+            "attributes": []
+        },
+        {
+            "uniqueId": "87390bf8-9be9-4c10-9c97-286c00ba2565",
+            "typeId": 20,
+            "x": -1,
+            "y": -1,
+            "itemName": "flowers",
+            "attributes": []
+        },
+        {
+            "uniqueId": "4890cfde-2778-4af5-8625-dac681e73c23",
+            "typeId": 67,
+            "x": -1,
+            "y": -1,
+            "itemName": "guitar pick",
+            "attributes": []
+        },
+        {
+            "uniqueId": "cf8f41d3-76b3-4db9-aaa4-7aa3cecf1ecc",
+            "typeId": 49,
+            "x": -1,
+            "y": -1,
+            "itemName": "guitar tuner",
+            "attributes": []
+        },
+        {
+            "uniqueId": "61bb0ced-574f-42b6-a11d-513813a320c5",
+            "typeId": 87,
+            "x": -1,
+            "y": -1,
+            "itemName": "medicine",
+            "attributes": []
+        }
+    ]
+}

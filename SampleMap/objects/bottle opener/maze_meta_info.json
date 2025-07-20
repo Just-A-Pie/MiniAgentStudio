@@ -1,0 +1,8 @@
+{
+    "typeId": 45,
+    "world_name": "bottle opener",
+    "maze_width": 1,
+    "maze_height": 1,
+    "sq_tile_size": 32.0,
+    "special_constraint": ""
+}

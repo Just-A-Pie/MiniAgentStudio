@@ -1,0 +1,97 @@
+
+bags
+balls
+banana
+bench
+blackboard
+blanket
+body wash
+books
+bookshelf
+bottle opener
+bread
+cake
+canned food
+canvas
+cash register
+chair
+chairs
+chalk
+closet
+closet2
+clothes
+coffee
+common_room_table
+controller
+cushion
+cushions
+decor
+desk
+dish soap
+dumbbells
+eggs
+eraser
+first aid kit
+flowerpot
+flowers
+game disc
+gardening tools
+glass
+grocery bags
+guitar
+guitar pick
+guitar tuner
+guitar2
+hangers
+harp
+keyboard
+kitchen_sink
+lamp
+library_table
+magazine
+medicine
+menu
+microphone
+microphone stand
+milk
+monitor
+mouse
+music stand
+notebooks
+notes
+paintbrush
+pans
+pastries
+pens
+piano
+piano bench
+picture frames
+pillows
+plant
+pool sticks
+pop filter
+pots
+prescription
+prescriptions
+receipt
+refrigerator
+register
+remote control
+shampoo
+sheet music
+shower
+snacks
+soap
+sofa
+sponge
+stationery
+stool
+table
+tablecloth
+toaster tongs
+toilet
+toilet cleaner
+toilet paper
+towel
+watering can
+weight plates

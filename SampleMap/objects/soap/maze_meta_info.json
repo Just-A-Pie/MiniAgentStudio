@@ -1,0 +1,8 @@
+{
+    "typeId": 35,
+    "world_name": "soap",
+    "maze_width": 1,
+    "maze_height": 1,
+    "sq_tile_size": 32.0,
+    "special_constraint": ""
+}

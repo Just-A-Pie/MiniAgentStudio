@@ -1,0 +1,30 @@
+# --- Unity generated ---
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+
+# --- IDE / OS ---
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.user
+*.userprefs
+.DS_Store
+Thumbs.db
+
+# --- TextMesh Pro generated ---
+Assets/TextMesh Pro/Resources/*
+!Assets/TextMesh Pro/Resources/*.asset
+
+# --- Crash / misc ---
+*.stacktrace
+
+# --- Others ---
+[Bb]uild*/
+[Ee]xported*/
