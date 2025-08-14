@@ -185,7 +185,7 @@
             "uniqueId": "da56c612-3fb2-49b6-8646-e7cb4c7ad1f2",
             "typeId": 2,
             "x": 15,
-            "y": 24,
+            "y": 17,
             "itemName": "IR's bed",
             "attributes": [
                 {
@@ -198,7 +198,7 @@
             "uniqueId": "6d91ba99-99de-4943-95ea-919baf5dd338",
             "typeId": 2,
             "x": 25,
-            "y": 24,
+            "y": 18,
             "itemName": "bed",
             "attributes": [
                 {
@@ -211,7 +211,7 @@
             "uniqueId": "d3d805bd-c579-4c6a-8085-433d6948bbc1",
             "typeId": 2,
             "x": 35,
-            "y": 24,
+            "y": 18,
             "itemName": "bed",
             "attributes": [
                 {
@@ -223,8 +223,8 @@
         {
             "uniqueId": "f3242406-d63a-45b5-ac8d-6530e1f60f8f",
             "typeId": 3,
-            "x": 25,
-            "y": 37,
+            "x": 26,
+            "y": 30,
             "itemName": "bed",
             "attributes": [
                 {
@@ -237,7 +237,7 @@
             "uniqueId": "84829ae2-7159-4bdb-9d37-37f16f5b3276",
             "typeId": 36,
             "x": 17,
-            "y": 24,
+            "y": 17,
             "itemName": "closet2",
             "attributes": [
                 {
@@ -250,7 +250,7 @@
             "uniqueId": "47150fae-22c9-4da9-8df9-4bc903a23228",
             "typeId": 36,
             "x": 27,
-            "y": 24,
+            "y": 18,
             "itemName": "closet2",
             "attributes": [
                 {
@@ -263,7 +263,7 @@
             "uniqueId": "8b3bcf41-c17b-4552-b330-b4e99dfb5069",
             "typeId": 17,
             "x": 25,
-            "y": 34,
+            "y": 29,
             "itemName": "closet",
             "attributes": [
                 {
@@ -276,7 +276,7 @@
             "uniqueId": "f719aa9d-7738-464e-b72a-3c2aa4a71bdc",
             "typeId": 17,
             "x": 41,
-            "y": 24,
+            "y": 17,
             "itemName": "closet",
             "attributes": [
                 {
@@ -289,7 +289,7 @@
             "uniqueId": "3cd6beec-60da-4f00-ba44-5bd49be3c9da",
             "typeId": 4,
             "x": 36,
-            "y": 34,
+            "y": 27,
             "itemName": "desk",
             "attributes": [
                 {
@@ -302,7 +302,7 @@
             "uniqueId": "71c85f92-44d0-4243-8885-7bb9cf4eb445",
             "typeId": 30,
             "x": 34,
-            "y": 37,
+            "y": 30,
             "itemName": "sofa",
             "attributes": [
                 {
@@ -314,8 +314,8 @@
         {
             "uniqueId": "6c07cd38-bc50-49e2-a9f6-ffbff9ce1315",
             "typeId": 24,
-            "x": 39,
-            "y": 32,
+            "x": 40,
+            "y": 25,
             "itemName": "kitchen_sink",
             "attributes": [
                 {
@@ -328,7 +328,7 @@
             "uniqueId": "824b561e-5170-475c-ac86-665c9b818504",
             "typeId": 6,
             "x": 20,
-            "y": 24,
+            "y": 17,
             "itemName": "bathtub",
             "attributes": [
                 {
@@ -341,7 +341,7 @@
             "uniqueId": "5ba20c8e-2a7f-4a93-ab6a-63ce28a5347f",
             "typeId": 6,
             "x": 30,
-            "y": 24,
+            "y": 17,
             "itemName": "bathtub",
             "attributes": [
                 {
@@ -354,7 +354,7 @@
             "uniqueId": "a73c6d94-d109-429f-9dd4-73a103b03177",
             "typeId": 6,
             "x": 41,
-            "y": 27,
+            "y": 20,
             "itemName": "bathtub",
             "attributes": [
                 {
@@ -367,7 +367,7 @@
             "uniqueId": "ca76dff7-0885-41e1-b269-52000301d137",
             "typeId": 6,
             "x": 30,
-            "y": 37,
+            "y": 30,
             "itemName": "bathtub",
             "attributes": [
                 {
@@ -380,7 +380,7 @@
             "uniqueId": "20765610-9aa1-4250-ae60-da5b943804a4",
             "typeId": 6,
             "x": 20,
-            "y": 37,
+            "y": 30,
             "itemName": "bathtub",
             "attributes": [
                 {
@@ -393,7 +393,7 @@
             "uniqueId": "3bc4b551-43ad-41fd-8563-7a5ad27ac69c",
             "typeId": 24,
             "x": 21,
-            "y": 29,
+            "y": 22,
             "itemName": "sink",
             "attributes": [
                 {
@@ -406,7 +406,7 @@
             "uniqueId": "5ff4f2d2-a1aa-4930-adde-ed935d781799",
             "typeId": 24,
             "x": 31,
-            "y": 29,
+            "y": 21,
             "itemName": "sink",
             "attributes": [
                 {
@@ -419,7 +419,7 @@
             "uniqueId": "8d453e33-bfe1-41f3-b1a3-3b6d4afd4bb8",
             "typeId": 18,
             "x": 38,
-            "y": 36,
+            "y": 29,
             "itemName": "common_room_table",
             "attributes": []
         },
@@ -427,7 +427,7 @@
             "uniqueId": "c1804cbd-e3f6-4e8e-a8c7-ca36525e7eab",
             "typeId": 18,
             "x": 38,
-            "y": 34,
+            "y": 26,
             "itemName": "common_room_table",
             "attributes": []
         },
@@ -435,7 +435,7 @@
             "uniqueId": "412a75cc-8fd4-464d-8455-dd1e795dad7b",
             "typeId": 36,
             "x": 15,
-            "y": 34,
+            "y": 27,
             "itemName": "closet2",
             "attributes": [
                 {
@@ -448,7 +448,7 @@
             "uniqueId": "712f484c-a14b-48e7-b0d6-a70d84043b94",
             "typeId": 16,
             "x": 87,
-            "y": 71,
+            "y": 62,
             "itemName": "bookshelf",
             "attributes": [
                 {
@@ -461,7 +461,7 @@
             "uniqueId": "38193f05-a05d-45c9-b075-b27b9ded878f",
             "typeId": 16,
             "x": 69,
-            "y": 71,
+            "y": 62,
             "itemName": "bookshelf",
             "attributes": [
                 {
@@ -474,7 +474,7 @@
             "uniqueId": "e714a368-b247-4ff8-8be4-8e24b5bc7d4c",
             "typeId": 33,
             "x": 54,
-            "y": 80,
+            "y": 71,
             "itemName": "bed",
             "attributes": [
                 {
@@ -487,7 +487,7 @@
             "uniqueId": "20b361c2-85d6-43e8-837a-478f755d1987",
             "typeId": 33,
             "x": 57,
-            "y": 80,
+            "y": 71,
             "itemName": "bed",
             "attributes": [
                 {
@@ -500,7 +500,7 @@
             "uniqueId": "dacf4c3b-8594-4f40-b85a-1ae2140c5031",
             "typeId": 33,
             "x": 72,
-            "y": 80,
+            "y": 71,
             "itemName": "bed",
             "attributes": [
                 {
@@ -513,7 +513,7 @@
             "uniqueId": "3f35fdd9-28e4-4294-9fef-4f4243b415c1",
             "typeId": 3,
             "x": 75,
-            "y": 80,
+            "y": 71,
             "itemName": "bed",
             "attributes": [
                 {
@@ -526,7 +526,7 @@
             "uniqueId": "f8ade614-c699-4b09-a8fa-5a9805da4080",
             "typeId": 2,
             "x": 90,
-            "y": 80,
+            "y": 71,
             "itemName": "bed",
             "attributes": [
                 {
@@ -539,7 +539,7 @@
             "uniqueId": "29f7776b-64f3-461f-97b7-dbb1999f23e9",
             "typeId": 2,
             "x": 93,
-            "y": 80,
+            "y": 71,
             "itemName": "bed",
             "attributes": [
                 {
@@ -552,7 +552,7 @@
             "uniqueId": "f0ddd5b1-7814-48ad-b6b2-ec6c5ff21c0a",
             "typeId": 6,
             "x": 96,
-            "y": 72,
+            "y": 63,
             "itemName": "bathtub",
             "attributes": [
                 {
@@ -565,7 +565,7 @@
             "uniqueId": "a3651c18-8c25-41fd-a0b6-4cc682de4fad",
             "typeId": 6,
             "x": 60,
-            "y": 73,
+            "y": 63,
             "itemName": "bathtub",
             "attributes": [
                 {
@@ -578,7 +578,7 @@
             "uniqueId": "0fa4ad05-2376-4e2c-96e9-f1013bcd5bd8",
             "typeId": 6,
             "x": 78,
-            "y": 73,
+            "y": 63,
             "itemName": "bathtub",
             "attributes": [
                 {
@@ -591,7 +591,7 @@
             "uniqueId": "98fcd41b-90d0-459b-ac78-e38c80f6d5cd",
             "typeId": 17,
             "x": 80,
-            "y": 80,
+            "y": 71,
             "itemName": "closet",
             "attributes": [
                 {
@@ -604,7 +604,7 @@
             "uniqueId": "3b9ccbc3-0a94-4afe-9a55-13974022d15e",
             "typeId": 17,
             "x": 98,
-            "y": 80,
+            "y": 71,
             "itemName": "closet",
             "attributes": [
                 {
@@ -617,7 +617,7 @@
             "uniqueId": "0c0e8bc5-86da-47a1-b90c-05d90d0a5ef1",
             "typeId": 17,
             "x": 69,
-            "y": 81,
+            "y": 71,
             "itemName": "closet",
             "attributes": [
                 {
@@ -630,7 +630,7 @@
             "uniqueId": "5fdba857-1fd7-4a6b-8ca4-9af0fff9d395",
             "typeId": 17,
             "x": 87,
-            "y": 81,
+            "y": 71,
             "itemName": "closet",
             "attributes": [
                 {
@@ -643,7 +643,7 @@
             "uniqueId": "8c0ffed3-692b-4caf-83c6-247a67c74689",
             "typeId": 17,
             "x": 51,
-            "y": 81,
+            "y": 72,
             "itemName": "closet",
             "attributes": [
                 {
@@ -655,8 +655,8 @@
         {
             "uniqueId": "69bb0ca4-b14a-41b8-9f89-458a8213d93a",
             "typeId": 4,
-            "x": 55,
-            "y": 74,
+            "x": 53,
+            "y": 66,
             "itemName": "desk",
             "attributes": [
                 {
@@ -668,8 +668,8 @@
         {
             "uniqueId": "5480b5f8-6a35-4d7e-907e-16c45d709f5c",
             "typeId": 4,
-            "x": 72,
-            "y": 75,
+            "x": 71,
+            "y": 65,
             "itemName": "desk",
             "attributes": [
                 {
@@ -682,7 +682,7 @@
             "uniqueId": "ed36c077-24e7-471e-a386-0ec9404a1053",
             "typeId": 4,
             "x": 90,
-            "y": 75,
+            "y": 65,
             "itemName": "desk",
             "attributes": [
                 {
@@ -695,7 +695,7 @@
             "uniqueId": "368ee719-2206-4e54-b40b-35de3e119b55",
             "typeId": 24,
             "x": 75,
-            "y": 72,
+            "y": 63,
             "itemName": "kitchen sink",
             "attributes": [
                 {
@@ -708,7 +708,7 @@
             "uniqueId": "5407e7f4-2eab-4621-b75b-4af27056aa31",
             "typeId": 24,
             "x": 93,
-            "y": 72,
+            "y": 63,
             "itemName": "kitchen sink",
             "attributes": [
                 {
@@ -721,7 +721,7 @@
             "uniqueId": "e5a142c2-6e86-42c0-8c40-80e3b8dbc45f",
             "typeId": 24,
             "x": 57,
-            "y": 72,
+            "y": 63,
             "itemName": "sink",
             "attributes": [
                 {
@@ -734,7 +734,7 @@
             "uniqueId": "0ebccbe7-8ec9-47d2-bf46-e809a76288e3",
             "typeId": 5,
             "x": 69,
-            "y": 74,
+            "y": 64,
             "itemName": "harp",
             "attributes": []
         },
@@ -742,23 +742,23 @@
             "uniqueId": "3f1c1fc2-7a21-4786-ad93-c2b4315f1ac8",
             "typeId": 18,
             "x": 88,
-            "y": 75,
+            "y": 66,
             "itemName": "common_room_table",
             "attributes": []
         },
         {
             "uniqueId": "4728103c-3a2d-4612-9f0e-8bf8631eb337",
             "typeId": 18,
-            "x": 74,
-            "y": 75,
+            "x": 73,
+            "y": 66,
             "itemName": "common_room_table",
             "attributes": []
         },
         {
             "uniqueId": "3e9f1e31-3271-4cc9-a772-1ae1bbaea836",
             "typeId": 18,
-            "x": 53,
-            "y": 76,
+            "x": 55,
+            "y": 66,
             "itemName": "common_room_table",
             "attributes": []
         },
@@ -766,7 +766,7 @@
             "uniqueId": "4af0392d-9c58-48f6-b954-01168ab76c3c",
             "typeId": 16,
             "x": 51,
-            "y": 71,
+            "y": 63,
             "itemName": "bookshelf",
             "attributes": [
                 {
@@ -779,7 +779,7 @@
             "uniqueId": "1eb690a7-46ad-4635-b428-fb1d235dde0b",
             "typeId": 28,
             "x": 41,
-            "y": 33,
+            "y": 26,
             "itemName": "refrigerator",
             "attributes": [
                 {
@@ -792,7 +792,7 @@
             "uniqueId": "df1ba8b7-72eb-4179-abfa-61afeacbacea",
             "typeId": 31,
             "x": 22,
-            "y": 38,
+            "y": 30,
             "itemName": "toilet",
             "attributes": [
                 {
@@ -805,7 +805,7 @@
             "uniqueId": "62769338-74c6-40ae-9455-c94a6435073d",
             "typeId": 31,
             "x": 32,
-            "y": 38,
+            "y": 30,
             "itemName": "toilet",
             "attributes": [
                 {
@@ -817,8 +817,8 @@
         {
             "uniqueId": "edca9568-aa30-450b-88fa-96cffd839830",
             "typeId": 31,
-            "x": 39,
-            "y": 28,
+            "x": 40,
+            "y": 21,
             "itemName": "toilet",
             "attributes": [
                 {
@@ -831,7 +831,7 @@
             "uniqueId": "e80b2303-a926-44fe-bac6-245a89a4f75f",
             "typeId": 31,
             "x": 32,
-            "y": 25,
+            "y": 18,
             "itemName": "toilet",
             "attributes": [
                 {
@@ -844,7 +844,7 @@
             "uniqueId": "93255892-24fd-4223-89de-87eda3422dc1",
             "typeId": 31,
             "x": 22,
-            "y": 25,
+            "y": 18,
             "itemName": "toilet",
             "attributes": [
                 {
@@ -857,7 +857,7 @@
             "uniqueId": "41ad10fa-f287-4a12-95c3-164b65d25d3e",
             "typeId": 15,
             "x": 109,
-            "y": 26,
+            "y": 19,
             "itemName": "blackboard",
             "attributes": [
                 {
@@ -869,8 +869,8 @@
         {
             "uniqueId": "11843ff7-9cab-4dd3-8f8c-8f380c4ff10f",
             "typeId": 15,
-            "x": 111,
-            "y": 26,
+            "x": 113,
+            "y": 19,
             "itemName": "blackboard",
             "attributes": [
                 {
@@ -883,7 +883,7 @@
             "uniqueId": "490791af-003e-47fe-b2f4-4c3cf55c79ba",
             "typeId": 25,
             "x": 112,
-            "y": 29,
+            "y": 21,
             "itemName": "library_table",
             "attributes": []
         },
@@ -891,7 +891,7 @@
             "uniqueId": "8c3bfde0-4651-4b51-9ff3-542ee86cd245",
             "typeId": 25,
             "x": 112,
-            "y": 31,
+            "y": 23,
             "itemName": "library_table",
             "attributes": []
         },
@@ -899,7 +899,7 @@
             "uniqueId": "79fe240d-cec4-4c0c-a4e5-fa54e53a160a",
             "typeId": 25,
             "x": 112,
-            "y": 33,
+            "y": 25,
             "itemName": "library_table",
             "attributes": []
         },
@@ -907,7 +907,7 @@
             "uniqueId": "f6b0c689-0b62-4265-9d1f-4282a5e94e76",
             "typeId": 25,
             "x": 114,
-            "y": 33,
+            "y": 25,
             "itemName": "library_table",
             "attributes": []
         },
@@ -915,7 +915,7 @@
             "uniqueId": "36f9a6e4-8e86-4a27-a39d-ec22d7c57e3a",
             "typeId": 25,
             "x": 114,
-            "y": 31,
+            "y": 23,
             "itemName": "library_table",
             "attributes": []
         },
@@ -923,15 +923,15 @@
             "uniqueId": "1534f03e-5ff6-455e-8446-e1aca156f566",
             "typeId": 25,
             "x": 114,
-            "y": 29,
+            "y": 21,
             "itemName": "library_table",
             "attributes": []
         },
         {
             "uniqueId": "4c7d25ef-c2af-471a-ba94-a8dc7c2e4cbb",
             "typeId": 33,
-            "x": 21,
-            "y": 72,
+            "x": 20,
+            "y": 63,
             "itemName": "bed",
             "attributes": [
                 {
@@ -944,7 +944,7 @@
             "uniqueId": "a571195b-2136-4c0a-9bc8-c3f6e620c599",
             "typeId": 33,
             "x": 27,
-            "y": 72,
+            "y": 63,
             "itemName": "bed",
             "attributes": [
                 {
@@ -957,7 +957,7 @@
             "uniqueId": "3497a55e-8e19-4661-888d-9d25d34653cc",
             "typeId": 3,
             "x": 34,
-            "y": 72,
+            "y": 63,
             "itemName": "bed",
             "attributes": [
                 {
@@ -970,7 +970,7 @@
             "uniqueId": "964c3b8a-4bdc-43af-b407-48554231ecce",
             "typeId": 6,
             "x": 34,
-            "y": 78,
+            "y": 69,
             "itemName": "bathtub",
             "attributes": [
                 {
@@ -983,7 +983,7 @@
             "uniqueId": "8957e76e-9e95-4e29-a7f1-8f64eb98fc17",
             "typeId": 6,
             "x": 27,
-            "y": 78,
+            "y": 69,
             "itemName": "bathtub",
             "attributes": [
                 {
@@ -996,7 +996,7 @@
             "uniqueId": "4e0844ea-86af-4c43-b229-99892e465295",
             "typeId": 6,
             "x": 20,
-            "y": 78,
+            "y": 69,
             "itemName": "bathtub",
             "attributes": [
                 {
@@ -1008,8 +1008,8 @@
         {
             "uniqueId": "58a0f9e1-c00c-48cc-9a06-c6928b30fe1a",
             "typeId": 36,
-            "x": 22,
-            "y": 68,
+            "x": 23,
+            "y": 59,
             "itemName": "closet2",
             "attributes": [
                 {
@@ -1021,8 +1021,8 @@
         {
             "uniqueId": "00319151-e3c9-487d-8826-e57d7b47c141",
             "typeId": 36,
-            "x": 29,
-            "y": 68,
+            "x": 30,
+            "y": 59,
             "itemName": "closet2",
             "attributes": [
                 {
@@ -1034,8 +1034,8 @@
         {
             "uniqueId": "baae1017-5609-4543-9474-e27effce252e",
             "typeId": 36,
-            "x": 36,
-            "y": 68,
+            "x": 37,
+            "y": 59,
             "itemName": "closet2",
             "attributes": [
                 {
@@ -1048,7 +1048,7 @@
             "uniqueId": "29eb968e-3f51-4551-931a-390eb27a23d8",
             "typeId": 28,
             "x": 30,
-            "y": 71,
+            "y": 61,
             "itemName": "refrigerator",
             "attributes": [
                 {
@@ -1061,7 +1061,7 @@
             "uniqueId": "1ea89d90-00a0-49c9-9aa9-7669d22524a2",
             "typeId": 28,
             "x": 37,
-            "y": 71,
+            "y": 62,
             "itemName": "refrigerator",
             "attributes": [
                 {
@@ -1074,7 +1074,7 @@
             "uniqueId": "3660eada-4ce3-4c46-b1c1-844a943a5ca8",
             "typeId": 28,
             "x": 23,
-            "y": 71,
+            "y": 64,
             "itemName": "refrigerator",
             "attributes": [
                 {
@@ -1087,7 +1087,7 @@
             "uniqueId": "0b4bbdfb-d3cf-41ca-b2d2-be9cc40eb368",
             "typeId": 31,
             "x": 24,
-            "y": 79,
+            "y": 69,
             "itemName": "toilet",
             "attributes": [
                 {
@@ -1100,7 +1100,7 @@
             "uniqueId": "377e4636-cf8d-48f9-b926-73423b964476",
             "typeId": 31,
             "x": 38,
-            "y": 79,
+            "y": 69,
             "itemName": "toilet",
             "attributes": [
                 {
@@ -1113,7 +1113,7 @@
             "uniqueId": "0a6652bb-b727-4702-bb7d-03823128bb02",
             "typeId": 31,
             "x": 31,
-            "y": 79,
+            "y": 69,
             "itemName": "toilet",
             "attributes": [
                 {
@@ -1126,7 +1126,7 @@
             "uniqueId": "779ba771-560f-4bd9-9948-717942784644",
             "typeId": 24,
             "x": 23,
-            "y": 74,
+            "y": 62,
             "itemName": "kitchen sink",
             "attributes": []
         },
@@ -1134,7 +1134,7 @@
             "uniqueId": "aa0af980-edfb-4451-b2d8-8362e50000ad",
             "typeId": 24,
             "x": 30,
-            "y": 78,
+            "y": 64,
             "itemName": "bathroom sink",
             "attributes": []
         },
@@ -1142,7 +1142,7 @@
             "uniqueId": "f40056f1-8a17-43eb-955a-5bb892ec7a5e",
             "typeId": 24,
             "x": 37,
-            "y": 78,
+            "y": 64,
             "itemName": "kitchen_sink",
             "attributes": []
         },
@@ -1150,7 +1150,7 @@
             "uniqueId": "40786499-da89-457e-9644-bdc5bcddb703",
             "typeId": 5,
             "x": 118,
-            "y": 26,
+            "y": 22,
             "itemName": "harp",
             "attributes": []
         },
@@ -1158,7 +1158,7 @@
             "uniqueId": "59a95402-a53e-4d52-a236-4812cce1bc5b",
             "typeId": 16,
             "x": 120,
-            "y": 27,
+            "y": 18,
             "itemName": "bookshelf",
             "attributes": [
                 {
@@ -1171,7 +1171,7 @@
             "uniqueId": "ab048eea-4057-4d70-808f-7a1d1fa52088",
             "typeId": 3,
             "x": 51,
-            "y": 26,
+            "y": 14,
             "itemName": "bed",
             "attributes": [
                 {
@@ -1184,7 +1184,7 @@
             "uniqueId": "1e66eaaf-edd2-4f48-955a-5bda8304d91c",
             "typeId": 2,
             "x": 72,
-            "y": 25,
+            "y": 14,
             "itemName": "IR's bed",
             "attributes": [
                 {
@@ -1197,7 +1197,7 @@
             "uniqueId": "5da50563-a144-4432-ae07-1ff567d02edc",
             "typeId": 2,
             "x": 122,
-            "y": 50,
+            "y": 41,
             "itemName": "bed",
             "attributes": [
                 {
@@ -1210,7 +1210,7 @@
             "uniqueId": "8f2617d8-5d19-4d71-a5c1-ee8b1694f703",
             "typeId": 2,
             "x": 118,
-            "y": 59,
+            "y": 49,
             "itemName": "bed",
             "attributes": [
                 {
@@ -1223,7 +1223,7 @@
             "uniqueId": "d6ff7d47-e8f4-4194-b828-14839691df93",
             "typeId": 6,
             "x": 60,
-            "y": 25,
+            "y": 13,
             "itemName": "bathtub",
             "attributes": [
                 {
@@ -1236,7 +1236,7 @@
             "uniqueId": "f1ba0d44-51e8-469b-b402-777c7d5d18a1",
             "typeId": 6,
             "x": 81,
-            "y": 25,
+            "y": 13,
             "itemName": "IR's bathtub",
             "attributes": [
                 {
@@ -1249,7 +1249,7 @@
             "uniqueId": "d574496e-5294-4528-9034-24b7be745333",
             "typeId": 6,
             "x": 86,
-            "y": 25,
+            "y": 13,
             "itemName": "bathtub",
             "attributes": [
                 {
@@ -1262,7 +1262,7 @@
             "uniqueId": "03f1e843-f665-43bc-b9b0-f494b4449335",
             "typeId": 6,
             "x": 93,
-            "y": 25,
+            "y": 13,
             "itemName": "bathtub",
             "attributes": [
                 {
@@ -1275,7 +1275,7 @@
             "uniqueId": "c6081c01-fb08-48aa-a8fe-b6404d627420",
             "typeId": 6,
             "x": 65,
-            "y": 25,
+            "y": 13,
             "itemName": "RP's bathtub",
             "attributes": [
                 {
@@ -1288,7 +1288,7 @@
             "uniqueId": "aeeb7cbd-2d79-48df-aaba-92263fc107c5",
             "typeId": 33,
             "x": 65,
-            "y": 31,
+            "y": 18,
             "itemName": "RP's bed",
             "attributes": [
                 {
@@ -1301,7 +1301,7 @@
             "uniqueId": "347d985e-310e-4fb4-91a9-f75ccfc13aef",
             "typeId": 33,
             "x": 86,
-            "y": 30,
+            "y": 18,
             "itemName": "GR's bed",
             "attributes": [
                 {
@@ -1314,7 +1314,7 @@
             "uniqueId": "d380daa3-6f0a-43bd-bbc9-2a0556b48ac9",
             "typeId": 3,
             "x": 93,
-            "y": 30,
+            "y": 19,
             "itemName": "bed",
             "attributes": [
                 {
@@ -1326,8 +1326,8 @@
         {
             "uniqueId": "36d372e0-4756-427d-ad6d-1cd96083c769",
             "typeId": 17,
-            "x": 97,
-            "y": 31,
+            "x": 96,
+            "y": 19,
             "itemName": "closet",
             "attributes": [
                 {
@@ -1339,8 +1339,8 @@
         {
             "uniqueId": "a5d9ffb7-d0e0-4ee5-819a-2ceca8dd8a2f",
             "typeId": 17,
-            "x": 90,
-            "y": 31,
+            "x": 89,
+            "y": 19,
             "itemName": "closet",
             "attributes": [
                 {
@@ -1353,7 +1353,7 @@
             "uniqueId": "f6a3a239-a3cc-42bb-a5e2-9302992db847",
             "typeId": 17,
             "x": 69,
-            "y": 35,
+            "y": 19,
             "itemName": "closet",
             "attributes": [
                 {
@@ -1366,7 +1366,7 @@
             "uniqueId": "c7040a0f-6d08-4726-a74f-dc4da6bc32cf",
             "typeId": 28,
             "x": 89,
-            "y": 36,
+            "y": 24,
             "itemName": "refrigerator",
             "attributes": [
                 {
@@ -1379,7 +1379,7 @@
             "uniqueId": "e5feb676-b99f-476e-aea1-cf1ef459d20f",
             "typeId": 28,
             "x": 96,
-            "y": 36,
+            "y": 25,
             "itemName": "refrigerator",
             "attributes": [
                 {
@@ -1392,7 +1392,7 @@
             "uniqueId": "01722c0f-a8a4-4045-8788-d87e6ccc5b58",
             "typeId": 30,
             "x": 73,
-            "y": 33,
+            "y": 21,
             "itemName": "sofa",
             "attributes": [
                 {
@@ -1405,7 +1405,7 @@
             "uniqueId": "5da642f0-8f36-4538-bb43-7d8ef3e0581f",
             "typeId": 24,
             "x": 89,
-            "y": 34,
+            "y": 22,
             "itemName": "kitchen sink",
             "attributes": [
                 {
@@ -1418,7 +1418,7 @@
             "uniqueId": "7a7e6d69-ada5-4f05-aa0e-e18fa845c8c2",
             "typeId": 24,
             "x": 96,
-            "y": 34,
+            "y": 23,
             "itemName": "sink",
             "attributes": [
                 {
@@ -1431,7 +1431,7 @@
             "uniqueId": "d3be545b-f408-4a59-8af2-a8097780f4ad",
             "typeId": 24,
             "x": 65,
-            "y": 36,
+            "y": 23,
             "itemName": "sink",
             "attributes": [
                 {
@@ -1444,7 +1444,7 @@
             "uniqueId": "dd23ae3f-7a01-42df-85c7-1c5a9c152a8a",
             "typeId": 31,
             "x": 83,
-            "y": 26,
+            "y": 15,
             "itemName": "toilet",
             "attributes": [
                 {
@@ -1457,7 +1457,7 @@
             "uniqueId": "0a09a854-4873-4224-b3d0-fb76a0a4b8bb",
             "typeId": 31,
             "x": 90,
-            "y": 25,
+            "y": 13,
             "itemName": "toilet",
             "attributes": [
                 {
@@ -1469,8 +1469,8 @@
         {
             "uniqueId": "e4b5f19e-e804-43ae-977c-41067ae2cde6",
             "typeId": 31,
-            "x": 96,
-            "y": 25,
+            "x": 97,
+            "y": 13,
             "itemName": "toilet",
             "attributes": [
                 {
@@ -1483,7 +1483,7 @@
             "uniqueId": "02a6c855-86a3-442b-96c4-61441de53cbf",
             "typeId": 31,
             "x": 69,
-            "y": 26,
+            "y": 13,
             "itemName": "toilet",
             "attributes": [
                 {
@@ -1496,7 +1496,7 @@
             "uniqueId": "fe8a82e9-900e-4eab-8d9b-6753fcc12a93",
             "typeId": 31,
             "x": 62,
-            "y": 27,
+            "y": 14,
             "itemName": "toilet",
             "attributes": [
                 {
@@ -1509,7 +1509,7 @@
             "uniqueId": "866c29a1-7c16-4b7f-95a1-cb6be4740f34",
             "typeId": 16,
             "x": 76,
-            "y": 48,
+            "y": 37,
             "itemName": "bookshelf",
             "attributes": [
                 {
@@ -1522,7 +1522,7 @@
             "uniqueId": "5705cbe8-2829-4086-9e5e-51eebac822fc",
             "typeId": 16,
             "x": 76,
-            "y": 55,
+            "y": 47,
             "itemName": "bookshelf",
             "attributes": [
                 {
@@ -1535,7 +1535,7 @@
             "uniqueId": "468abca7-6ada-41af-a9f4-f76c3a3a32e7",
             "typeId": 16,
             "x": 81,
-            "y": 55,
+            "y": 47,
             "itemName": "bookshelf",
             "attributes": [
                 {
@@ -1548,7 +1548,7 @@
             "uniqueId": "4f3f6e77-21f6-48c4-9510-4688a59a9155",
             "typeId": 8,
             "x": 90,
-            "y": 48,
+            "y": 38,
             "itemName": "flowerpot",
             "attributes": [
                 {
@@ -1561,7 +1561,7 @@
             "uniqueId": "f62a834e-1b53-41aa-9393-be8ff0a9ff08",
             "typeId": 8,
             "x": 63,
-            "y": 48,
+            "y": 38,
             "itemName": "flowerpot",
             "attributes": [
                 {
@@ -1574,7 +1574,7 @@
             "uniqueId": "3b2049dc-a0b5-4163-87df-d2570a26e446",
             "typeId": 4,
             "x": 89,
-            "y": 53,
+            "y": 42,
             "itemName": "desk",
             "attributes": [
                 {
@@ -1587,7 +1587,7 @@
             "uniqueId": "bcb43ef4-3836-4b69-9dbd-c6cc704a6197",
             "typeId": 5,
             "x": 91,
-            "y": 56,
+            "y": 46,
             "itemName": "harp",
             "attributes": []
         },
@@ -1595,7 +1595,7 @@
             "uniqueId": "e49c6f4b-024b-48d5-823d-0ae1c84bfa66",
             "typeId": 25,
             "x": 122,
-            "y": 31,
+            "y": 22,
             "itemName": "library_table",
             "attributes": []
         },
@@ -1603,7 +1603,7 @@
             "uniqueId": "23a4e43d-e40e-4dd4-a595-19e53539fa65",
             "typeId": 25,
             "x": 122,
-            "y": 33,
+            "y": 24,
             "itemName": "library_table",
             "attributes": []
         },
@@ -1611,7 +1611,7 @@
             "uniqueId": "5fa6fa55-010a-4856-b8a4-206e2b66c7c7",
             "typeId": 25,
             "x": 124,
-            "y": 33,
+            "y": 24,
             "itemName": "library_table",
             "attributes": []
         },
@@ -1619,7 +1619,7 @@
             "uniqueId": "4137c521-94c0-4956-97aa-2a41b10178f6",
             "typeId": 25,
             "x": 124,
-            "y": 31,
+            "y": 22,
             "itemName": "library_table",
             "attributes": []
         },
@@ -1627,7 +1627,7 @@
             "uniqueId": "31026b92-afdc-4f75-ba78-5aa8a3e2e579",
             "typeId": 28,
             "x": 119,
-            "y": 49,
+            "y": 41,
             "itemName": "refrigerator",
             "attributes": [
                 {
@@ -1637,23 +1637,10 @@
             ]
         },
         {
-            "uniqueId": "fb74d341-a53e-4bb1-9cb6-a1df66d51647",
-            "typeId": 30,
-            "x": 110,
-            "y": 55,
-            "itemName": "sofa",
-            "attributes": [
-                {
-                    "key": "container",
-                    "value": "5a534bf1-376e-4923-9df2-0a175eb86334,b1cbda4c-5fdb-4906-a33f-0d78458130f4"
-                }
-            ]
-        },
-        {
             "uniqueId": "e213f1ea-e73e-492e-81df-b7a9878b9a02",
             "typeId": 6,
             "x": 102,
-            "y": 55,
+            "y": 46,
             "itemName": "bathtub",
             "attributes": [
                 {
@@ -1666,7 +1653,7 @@
             "uniqueId": "87192169-afbe-46ae-ac35-6e1413916a8b",
             "typeId": 3,
             "x": 102,
-            "y": 64,
+            "y": 53,
             "itemName": "bed",
             "attributes": [
                 {
@@ -1679,7 +1666,7 @@
             "uniqueId": "e46e780e-b583-4a97-8843-59ff290b489a",
             "typeId": 33,
             "x": 110,
-            "y": 64,
+            "y": 53,
             "itemName": "bed",
             "attributes": [
                 {
@@ -1692,7 +1679,7 @@
             "uniqueId": "a34be271-2242-452f-ab6e-db56fc883bb4",
             "typeId": 17,
             "x": 115,
-            "y": 62,
+            "y": 53,
             "itemName": "closet",
             "attributes": [
                 {
@@ -1705,7 +1692,7 @@
             "uniqueId": "2bd875b8-44e9-4d66-9782-86bff5739d37",
             "typeId": 17,
             "x": 123,
-            "y": 58,
+            "y": 50,
             "itemName": "closet",
             "attributes": [
                 {
@@ -1718,7 +1705,7 @@
             "uniqueId": "60a48402-b58e-4ae4-be6d-1f4f2feea8d7",
             "typeId": 36,
             "x": 106,
-            "y": 65,
+            "y": 53,
             "itemName": "closet2",
             "attributes": [
                 {
@@ -1731,7 +1718,7 @@
             "uniqueId": "b3cc4ddd-cade-4010-a5a6-8703b83f2d49",
             "typeId": 31,
             "x": 126,
-            "y": 58,
+            "y": 49,
             "itemName": "toilet",
             "attributes": [
                 {
@@ -1744,7 +1731,7 @@
             "uniqueId": "6b34cd91-50b1-461c-bd83-a5279625aae2",
             "typeId": 31,
             "x": 105,
-            "y": 55,
+            "y": 46,
             "itemName": "toilet",
             "attributes": [
                 {
@@ -1757,7 +1744,7 @@
             "uniqueId": "7a43f213-7eba-4958-908a-787eb8a077d8",
             "typeId": 36,
             "x": 126,
-            "y": 50,
+            "y": 41,
             "itemName": "closet2",
             "attributes": [
                 {
@@ -1770,7 +1757,7 @@
             "uniqueId": "510014e3-8bae-4630-9800-49e4fb767465",
             "typeId": 24,
             "x": 116,
-            "y": 50,
+            "y": 41,
             "itemName": "kitchen sink",
             "attributes": [
                 {
@@ -1783,7 +1770,7 @@
             "uniqueId": "6bfb9245-800f-44e9-adbe-6c73f5eac7a2",
             "typeId": 5,
             "x": 114,
-            "y": 56,
+            "y": 45,
             "itemName": "harp",
             "attributes": []
         },
@@ -1823,7 +1810,7 @@
             "uniqueId": "3c63fde9-b477-4bfb-9c7e-2b6bf6ff8e78",
             "typeId": 3,
             "x": 15,
-            "y": 37,
+            "y": 30,
             "itemName": "bed",
             "attributes": [
                 {
@@ -2536,7 +2523,7 @@
             "uniqueId": "ba5c5207-0d27-4e9d-bbaf-7e21f91835a8",
             "typeId": 36,
             "x": 61,
-            "y": 80,
+            "y": 72,
             "itemName": "closet2",
             "attributes": [
                 {
@@ -2701,7 +2688,7 @@
             "uniqueId": "a66b58de-ba2b-44ee-8575-32074bf386e7",
             "typeId": 21,
             "x": 25,
-            "y": 27,
+            "y": 21,
             "itemName": "guitar",
             "attributes": [
                 {
@@ -2714,7 +2701,7 @@
             "uniqueId": "775c1891-7a91-42a9-a963-a8563a8dcf2e",
             "typeId": 21,
             "x": 60,
-            "y": 81,
+            "y": 71,
             "itemName": "guitar",
             "attributes": [
                 {
@@ -2727,7 +2714,7 @@
             "uniqueId": "c9d584c4-bf4a-4661-b176-ced2106a4067",
             "typeId": 21,
             "x": 79,
-            "y": 81,
+            "y": 72,
             "itemName": "guitar",
             "attributes": [
                 {
@@ -2739,8 +2726,8 @@
         {
             "uniqueId": "4546b83c-f419-44a4-93b5-7de98e5ee536",
             "typeId": 21,
-            "x": 119,
-            "y": 52,
+            "x": 120,
+            "y": 43,
             "itemName": "guitar",
             "attributes": [
                 {
@@ -2753,7 +2740,7 @@
             "uniqueId": "3b65cd67-caa8-485e-aade-d158746e5bb5",
             "typeId": 21,
             "x": 114,
-            "y": 65,
+            "y": 56,
             "itemName": "guitar",
             "attributes": [
                 {
@@ -2862,7 +2849,7 @@
             "uniqueId": "c04b47e5-3268-4158-a2b8-6417eb3efc7f",
             "typeId": 28,
             "x": 49,
-            "y": 48,
+            "y": 38,
             "itemName": "refrigerator",
             "attributes": [
                 {
@@ -2875,7 +2862,7 @@
             "uniqueId": "a6e6c689-830b-4aa4-a67b-7671fd7904ed",
             "typeId": 30,
             "x": 49,
-            "y": 54,
+            "y": 45,
             "itemName": "sofa",
             "attributes": []
         },
@@ -2883,7 +2870,7 @@
             "uniqueId": "0b6dd958-ae61-4c9d-8b14-1225e495e7ab",
             "typeId": 160,
             "x": 59,
-            "y": 51,
+            "y": 41,
             "itemName": "table",
             "attributes": [
                 {
@@ -2896,7 +2883,7 @@
             "uniqueId": "eda563e7-2988-4139-89a7-396a83bb75d9",
             "typeId": 160,
             "x": 63,
-            "y": 51,
+            "y": 41,
             "itemName": "table",
             "attributes": [
                 {
@@ -2909,15 +2896,15 @@
             "uniqueId": "8ae17f0a-d9b5-4d99-b72f-37e6c380e672",
             "typeId": 78,
             "x": 64,
-            "y": 53,
+            "y": 44,
             "itemName": "cafe customer seating",
             "attributes": []
         },
         {
             "uniqueId": "a6f7e8c3-ce35-4e27-b6a0-29a175f65437",
             "typeId": 78,
-            "x": 59,
-            "y": 53,
+            "x": 60,
+            "y": 44,
             "itemName": "cafe customer seating",
             "attributes": []
         },
@@ -2925,7 +2912,7 @@
             "uniqueId": "42ac6af5-6608-475c-8cc5-fb8e4d92249d",
             "typeId": 86,
             "x": 88,
-            "y": 49,
+            "y": 39,
             "itemName": "cash register",
             "attributes": [
                 {
@@ -2938,7 +2925,7 @@
             "uniqueId": "da99ed15-da45-4fdd-942e-e7a981252d4b",
             "typeId": 107,
             "x": 61,
-            "y": 56,
+            "y": 47,
             "itemName": "cushion",
             "attributes": []
         },
@@ -2946,7 +2933,7 @@
             "uniqueId": "efd03889-e597-46ff-b30f-e3332f3204de",
             "typeId": 107,
             "x": 64,
-            "y": 56,
+            "y": 47,
             "itemName": "cushion",
             "attributes": []
         },
@@ -2954,7 +2941,7 @@
             "uniqueId": "42b2d826-1c52-4226-baf4-608e31bb0cc2",
             "typeId": 4,
             "x": 52,
-            "y": 53,
+            "y": 44,
             "itemName": "desk",
             "attributes": [
                 {
@@ -2967,7 +2954,7 @@
             "uniqueId": "ae93e13b-eeff-47a9-b872-dae0c1d1d952",
             "typeId": 24,
             "x": 49,
-            "y": 51,
+            "y": 41,
             "itemName": "sink",
             "attributes": []
         },
@@ -3023,7 +3010,7 @@
             "uniqueId": "f5d85235-fdec-4025-a487-2fd5a9512273",
             "typeId": 18,
             "x": 81,
-            "y": 34,
+            "y": 22,
             "itemName": "cafe customer seating",
             "attributes": []
         },
@@ -3031,15 +3018,15 @@
             "uniqueId": "9e7ee29a-5514-4f81-9ac2-74773a7ba9e5",
             "typeId": 24,
             "x": 81,
-            "y": 32,
+            "y": 20,
             "itemName": "kitchen_sink",
             "attributes": []
         },
         {
             "uniqueId": "cb4e2ae1-92f0-41e9-bfca-d5c064678afe",
             "typeId": 24,
-            "x": 60,
-            "y": 32,
+            "x": 61,
+            "y": 16,
             "itemName": "sink",
             "attributes": []
         },
@@ -3047,7 +3034,7 @@
             "uniqueId": "c93225c4-8a4d-4fc2-8f28-24911681975d",
             "typeId": 28,
             "x": 73,
-            "y": 31,
+            "y": 19,
             "itemName": "cafe refrigerator",
             "attributes": [
                 {
@@ -3060,7 +3047,7 @@
             "uniqueId": "b2237f29-84c8-4dc5-97b6-7e398bdfaef1",
             "typeId": 160,
             "x": 93,
-            "y": 35,
+            "y": 23,
             "itemName": "table",
             "attributes": []
         },
@@ -3068,7 +3055,7 @@
             "uniqueId": "bf2b5b83-9a71-4441-b9dc-c90929137f36",
             "typeId": 160,
             "x": 86,
-            "y": 35,
+            "y": 22,
             "itemName": "table",
             "attributes": []
         },
@@ -3076,7 +3063,7 @@
             "uniqueId": "16883cb7-d053-4248-b7c5-347bfa991681",
             "typeId": 160,
             "x": 78,
-            "y": 36,
+            "y": 23,
             "itemName": "table",
             "attributes": []
         },
@@ -3084,7 +3071,7 @@
             "uniqueId": "e16c6a6d-9eeb-4e3c-b839-ada7117e8bd1",
             "typeId": 160,
             "x": 52,
-            "y": 32,
+            "y": 20,
             "itemName": "table",
             "attributes": []
         },
@@ -3092,7 +3079,7 @@
             "uniqueId": "91a23bb3-4293-47d9-ae41-9e8b7f4018a2",
             "typeId": 7,
             "x": 52,
-            "y": 35,
+            "y": 23,
             "itemName": "piano",
             "attributes": []
         },
@@ -3100,7 +3087,7 @@
             "uniqueId": "7e34f370-b90b-48c2-a42d-eb6959e32eec",
             "typeId": 28,
             "x": 60,
-            "y": 34,
+            "y": 19,
             "itemName": "refrigerator",
             "attributes": [
                 {
@@ -3112,8 +3099,8 @@
         {
             "uniqueId": "aaa9c232-67b8-4adc-9597-cc6c309bbc19",
             "typeId": 160,
-            "x": 54,
-            "y": 32,
+            "x": 55,
+            "y": 20,
             "itemName": "table",
             "attributes": []
         },
@@ -3121,7 +3108,7 @@
             "uniqueId": "b30780a4-cab4-49a4-9990-41b74f2311d1",
             "typeId": 7,
             "x": 73,
-            "y": 35,
+            "y": 23,
             "itemName": "piano",
             "attributes": []
         },
@@ -3129,7 +3116,7 @@
             "uniqueId": "b6d28608-767a-4078-9974-e31e2e159835",
             "typeId": 18,
             "x": 81,
-            "y": 36,
+            "y": 24,
             "itemName": "cafe customer seating",
             "attributes": []
         },
@@ -3137,7 +3124,7 @@
             "uniqueId": "649b98b8-848d-4076-bee5-3afb7a8b6766",
             "typeId": 20,
             "x": 33,
-            "y": 50,
+            "y": 43,
             "itemName": "flowers",
             "attributes": []
         },
@@ -3145,7 +3132,7 @@
             "uniqueId": "732cf6f7-27ac-43dc-946c-1b95233dfc28",
             "typeId": 20,
             "x": 33,
-            "y": 52,
+            "y": 46,
             "itemName": "flowers",
             "attributes": []
         },
@@ -3153,7 +3140,7 @@
             "uniqueId": "a5f9ab7c-d7cd-46f7-ab61-85302e8eee90",
             "typeId": 20,
             "x": 33,
-            "y": 54,
+            "y": 49,
             "itemName": "flowers",
             "attributes": []
         },
@@ -3161,7 +3148,7 @@
             "uniqueId": "e24eeb28-d8c1-4592-9630-df3001feb4af",
             "typeId": 78,
             "x": 28,
-            "y": 50,
+            "y": 43,
             "itemName": "bench",
             "attributes": []
         },
@@ -3169,7 +3156,7 @@
             "uniqueId": "959e8a6b-d28d-4ee6-ab0d-0577ace846f8",
             "typeId": 78,
             "x": 28,
-            "y": 52,
+            "y": 46,
             "itemName": "bench",
             "attributes": []
         },
@@ -3177,7 +3164,7 @@
             "uniqueId": "079e3749-6d2f-449f-8555-9a869199f5d3",
             "typeId": 78,
             "x": 28,
-            "y": 54,
+            "y": 49,
             "itemName": "bench",
             "attributes": []
         },
@@ -3185,7 +3172,7 @@
             "uniqueId": "c0adf1db-30c4-4f61-b0a7-31291c4f98a3",
             "typeId": 27,
             "x": 21,
-            "y": 50,
+            "y": 43,
             "itemName": "chair",
             "attributes": []
         },
@@ -3193,7 +3180,7 @@
             "uniqueId": "dcb98db6-6822-48fd-b6f4-7d495b4e2f2d",
             "typeId": 27,
             "x": 21,
-            "y": 52,
+            "y": 46,
             "itemName": "chair",
             "attributes": []
         },
@@ -3201,7 +3188,7 @@
             "uniqueId": "9fe7ee6b-fc6f-48f3-99bf-f703f8cd3a8b",
             "typeId": 27,
             "x": 21,
-            "y": 54,
+            "y": 49,
             "itemName": "chair",
             "attributes": []
         },
@@ -3209,7 +3196,7 @@
             "uniqueId": "a26d055c-ea2c-4d8f-942c-135dbb9d728f",
             "typeId": 122,
             "x": 97,
-            "y": 81,
+            "y": 72,
             "itemName": "guitar",
             "attributes": [
                 {
@@ -3221,8 +3208,8 @@
         {
             "uniqueId": "f41b6a85-cfb1-486f-aa97-de9707771924",
             "typeId": 62,
-            "x": 62,
-            "y": 37,
+            "x": 61,
+            "y": 25,
             "itemName": "microphone stand",
             "attributes": [
                 {
@@ -3243,7 +3230,7 @@
             "uniqueId": "7f0f994d-4432-4170-9502-ee656441d486",
             "typeId": 18,
             "x": 56,
-            "y": 37,
+            "y": 22,
             "itemName": "bar customer seating",
             "attributes": []
         },
@@ -3251,7 +3238,7 @@
             "uniqueId": "af5236f0-ecc2-4303-8a04-8396a54cccb9",
             "typeId": 18,
             "x": 58,
-            "y": 37,
+            "y": 22,
             "itemName": "bar customer seating",
             "attributes": []
         },
@@ -3259,7 +3246,7 @@
             "uniqueId": "51a6165d-19b2-4515-9821-fcc804619b06",
             "typeId": 18,
             "x": 60,
-            "y": 37,
+            "y": 22,
             "itemName": "bar customer seating",
             "attributes": []
         },
@@ -3267,7 +3254,7 @@
             "uniqueId": "cdb34d44-f66a-47fb-9420-e6d79dca1627",
             "typeId": 27,
             "x": 16,
-            "y": 28,
+            "y": 22,
             "itemName": "chair",
             "attributes": []
         },
@@ -3275,7 +3262,7 @@
             "uniqueId": "6367b77c-b266-42c9-b553-557ae7c61a76",
             "typeId": 27,
             "x": 27,
-            "y": 28,
+            "y": 21,
             "itemName": "chair",
             "attributes": []
         },
@@ -3283,7 +3270,7 @@
             "uniqueId": "7026df83-34e3-49e5-8992-ed18f54afecf",
             "typeId": 27,
             "x": 18,
-            "y": 38,
+            "y": 31,
             "itemName": "chair",
             "attributes": []
         },
@@ -3291,7 +3278,7 @@
             "uniqueId": "37c3bcfd-8a52-40ed-a8c7-41d68994e541",
             "typeId": 27,
             "x": 35,
-            "y": 28,
+            "y": 22,
             "itemName": "chair",
             "attributes": []
         },
@@ -3299,15 +3286,15 @@
             "uniqueId": "f21b094c-7c29-440b-aed6-b99392e74908",
             "typeId": 27,
             "x": 28,
-            "y": 38,
+            "y": 28,
             "itemName": "chair",
             "attributes": []
         },
         {
             "uniqueId": "9d7fc073-7215-460b-a102-2b0935a3c4b2",
             "typeId": 90,
-            "x": 118,
-            "y": 55,
+            "x": 115,
+            "y": 49,
             "itemName": "dumbbell",
             "attributes": [
                 {
@@ -3320,7 +3307,7 @@
             "uniqueId": "f2390195-78ea-4222-af62-85f10f906039",
             "typeId": 53,
             "x": 15,
-            "y": 29,
+            "y": 21,
             "itemName": "computer",
             "attributes": [
                 {
@@ -3333,7 +3320,7 @@
             "uniqueId": "8a5dfef6-559d-4a7b-8ca0-bb4f5630474e",
             "typeId": 53,
             "x": 20,
-            "y": 69,
+            "y": 60,
             "itemName": "monitor",
             "attributes": [
                 {
@@ -3346,7 +3333,7 @@
             "uniqueId": "40c89a52-a433-4b18-8bfb-8273b39a20af",
             "typeId": 53,
             "x": 27,
-            "y": 69,
+            "y": 59,
             "itemName": "monitor",
             "attributes": [
                 {
@@ -3359,7 +3346,7 @@
             "uniqueId": "c67b8da5-bf31-4c46-82fc-0d7b158d1ed9",
             "typeId": 53,
             "x": 76,
-            "y": 74,
+            "y": 65,
             "itemName": "computer",
             "attributes": [
                 {
@@ -3529,27 +3516,6 @@
             "attributes": []
         },
         {
-            "uniqueId": "53bce9da-0a51-42db-9d76-0ea7b811ccdc",
-            "typeId": 29,
-            "x": 126,
-            "y": 61,
-            "itemName": "shower",
-            "attributes": [
-                {
-                    "key": "container",
-                    "value": "9d734433-7cfd-4635-9676-15dcad20de0c"
-                }
-            ]
-        },
-        {
-            "uniqueId": "9d734433-7cfd-4635-9676-15dcad20de0c",
-            "typeId": 15,
-            "x": -1,
-            "y": -1,
-            "itemName": "shampoo",
-            "attributes": []
-        },
-        {
             "uniqueId": "db85d8ee-82b3-41a9-bcfa-e1c827e69b3c",
             "typeId": 22,
             "x": -1,
@@ -3654,7 +3620,7 @@
             "uniqueId": "72ac4b0f-4d13-41b2-9733-cfbe628a352c",
             "typeId": 55,
             "x": 52,
-            "y": 38,
+            "y": 26,
             "itemName": "piano bench",
             "attributes": []
         },
@@ -3662,7 +3628,7 @@
             "uniqueId": "23aeb6ba-1e32-420a-8b92-f00e3a9a8bd7",
             "typeId": 55,
             "x": 73,
-            "y": 38,
+            "y": 26,
             "itemName": "piano bench",
             "attributes": []
         },
@@ -3670,7 +3636,7 @@
             "uniqueId": "40f32a3a-0105-4a22-8138-05929f555aa2",
             "typeId": 17,
             "x": 54,
-            "y": 26,
+            "y": 14,
             "itemName": "closet",
             "attributes": [
                 {
@@ -3683,7 +3649,7 @@
             "uniqueId": "46cc3764-506e-44f3-83f6-188e1ea7fb00",
             "typeId": 36,
             "x": 75,
-            "y": 26,
+            "y": 15,
             "itemName": "closet2",
             "attributes": [
                 {
@@ -3696,7 +3662,7 @@
             "uniqueId": "020eece6-b58d-4f4f-96a5-31c1e15eae4f",
             "typeId": 160,
             "x": 78,
-            "y": 26,
+            "y": 14,
             "itemName": "table",
             "attributes": []
         },
@@ -3704,7 +3670,7 @@
             "uniqueId": "b9569c40-eed7-4ff1-a708-126e097f4aa2",
             "typeId": 160,
             "x": 56,
-            "y": 26,
+            "y": 14,
             "itemName": "table",
             "attributes": []
         },
@@ -4046,7 +4012,7 @@
         },
         {
             "uniqueId": "df1f301b-0fca-4f3c-8e17-e23754db4fa8",
-            "typeId": 15,
+            "typeId": 115,
             "x": -1,
             "y": -1,
             "itemName": "shampoo",
@@ -4054,7 +4020,7 @@
         },
         {
             "uniqueId": "b69660bd-31ab-4662-9128-55f723388d7e",
-            "typeId": 15,
+            "typeId": 115,
             "x": -1,
             "y": -1,
             "itemName": "shampoo",
@@ -4062,7 +4028,7 @@
         },
         {
             "uniqueId": "9d9d258e-4041-4f5a-8860-a4545c84d09f",
-            "typeId": 15,
+            "typeId": 115,
             "x": -1,
             "y": -1,
             "itemName": "shampoo",
@@ -4070,7 +4036,7 @@
         },
         {
             "uniqueId": "7d680cdb-5218-414d-9d31-b67d5174cedf",
-            "typeId": 15,
+            "typeId": 115,
             "x": -1,
             "y": -1,
             "itemName": "shampoo",
@@ -4078,7 +4044,7 @@
         },
         {
             "uniqueId": "9b77641e-fb7f-47f4-ac57-0ebac63f34b4",
-            "typeId": 15,
+            "typeId": 115,
             "x": -1,
             "y": -1,
             "itemName": "shampoo",
@@ -4086,7 +4052,7 @@
         },
         {
             "uniqueId": "99658774-7dff-4c1e-af84-d8fad290a6dd",
-            "typeId": 15,
+            "typeId": 115,
             "x": -1,
             "y": -1,
             "itemName": "shampoo",
@@ -4094,7 +4060,7 @@
         },
         {
             "uniqueId": "6aa96bab-3873-4abd-bb4f-dc7cb0b2162b",
-            "typeId": 15,
+            "typeId": 115,
             "x": -1,
             "y": -1,
             "itemName": "shampoo",
@@ -4102,7 +4068,7 @@
         },
         {
             "uniqueId": "370bc604-2e41-4faa-b66a-1dfa112454a1",
-            "typeId": 15,
+            "typeId": 115,
             "x": -1,
             "y": -1,
             "itemName": "shampoo",
@@ -4110,7 +4076,7 @@
         },
         {
             "uniqueId": "5f00e8cc-87a0-41fd-a6fa-76a426be0984",
-            "typeId": 15,
+            "typeId": 115,
             "x": -1,
             "y": -1,
             "itemName": "shampoo",
@@ -4118,7 +4084,7 @@
         },
         {
             "uniqueId": "6ac42138-adfa-4053-bd46-5dba22e2cacb",
-            "typeId": 15,
+            "typeId": 115,
             "x": -1,
             "y": -1,
             "itemName": "shampoo",
@@ -4134,7 +4100,7 @@
         },
         {
             "uniqueId": "0d543d6a-3d8c-411c-9b1a-dbed6713a4a4",
-            "typeId": 15,
+            "typeId": 115,
             "x": -1,
             "y": -1,
             "itemName": "shampoo",
@@ -4142,7 +4108,7 @@
         },
         {
             "uniqueId": "5f6723cd-ac40-4ec7-9fa1-b92787fb10e8",
-            "typeId": 15,
+            "typeId": 115,
             "x": -1,
             "y": -1,
             "itemName": "shampoo",
@@ -4170,22 +4136,6 @@
             "x": -1,
             "y": -1,
             "itemName": "dish soap",
-            "attributes": []
-        },
-        {
-            "uniqueId": "5a534bf1-376e-4923-9df2-0a175eb86334",
-            "typeId": 47,
-            "x": -1,
-            "y": -1,
-            "itemName": "remote control",
-            "attributes": []
-        },
-        {
-            "uniqueId": "b1cbda4c-5fdb-4906-a33f-0d78458130f4",
-            "typeId": 107,
-            "x": -1,
-            "y": -1,
-            "itemName": "cushion",
             "attributes": []
         },
         {
@@ -4418,6 +4368,109 @@
             "x": -1,
             "y": -1,
             "itemName": "medicine",
+            "attributes": []
+        },
+        {
+            "uniqueId": "c48630f7-5eb1-4dc5-a6cc-a1cf224a96bb",
+            "typeId": 27,
+            "x": 109,
+            "y": 23,
+            "itemName": "chair",
+            "attributes": []
+        },
+        {
+            "uniqueId": "bc1678b1-a032-4355-b949-f1914cc7048c",
+            "typeId": 30,
+            "x": 110,
+            "y": 46,
+            "itemName": "sofa",
+            "attributes": []
+        },
+        {
+            "uniqueId": "50bdca9f-3b40-48fe-941e-4dde41087f55",
+            "typeId": 28,
+            "x": 57,
+            "y": 64,
+            "itemName": "refrigerator",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "564bafb2-ded1-49c3-adf2-bf60086b2721,811c595c-8b51-43f8-9ee5-2052c204e4c9"
+                }
+            ]
+        },
+        {
+            "uniqueId": "564bafb2-ded1-49c3-adf2-bf60086b2721",
+            "typeId": 26,
+            "x": -1,
+            "y": -1,
+            "itemName": "milk",
+            "attributes": []
+        },
+        {
+            "uniqueId": "811c595c-8b51-43f8-9ee5-2052c204e4c9",
+            "typeId": 74,
+            "x": -1,
+            "y": -1,
+            "itemName": "egg",
+            "attributes": []
+        },
+        {
+            "uniqueId": "55aed18f-9f12-4b1d-b415-303730f9b727",
+            "typeId": 6,
+            "x": 127,
+            "y": 51,
+            "itemName": "bathtub",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "88322a25-ca50-439a-8101-730c7f4a6f51,8c505948-8a0e-45c8-879a-9bbbe9697938"
+                }
+            ]
+        },
+        {
+            "uniqueId": "88322a25-ca50-439a-8101-730c7f4a6f51",
+            "typeId": 29,
+            "x": -1,
+            "y": -1,
+            "itemName": "body wash",
+            "attributes": []
+        },
+        {
+            "uniqueId": "8c505948-8a0e-45c8-879a-9bbbe9697938",
+            "typeId": 115,
+            "x": -1,
+            "y": -1,
+            "itemName": "shampoo",
+            "attributes": []
+        },
+        {
+            "uniqueId": "1cef1736-ce76-4cdd-b9fd-718990411bd6",
+            "typeId": 28,
+            "x": 93,
+            "y": 65,
+            "itemName": "refrigerator",
+            "attributes": [
+                {
+                    "key": "container",
+                    "value": "a0e1f483-d4ce-4b50-9105-1996159c70ca,e24eea5e-2c7b-46ee-99f8-d3f175def674"
+                }
+            ]
+        },
+        {
+            "uniqueId": "a0e1f483-d4ce-4b50-9105-1996159c70ca",
+            "typeId": 26,
+            "x": -1,
+            "y": -1,
+            "itemName": "milk",
+            "attributes": []
+        },
+        {
+            "uniqueId": "e24eea5e-2c7b-46ee-99f8-d3f175def674",
+            "typeId": 74,
+            "x": -1,
+            "y": -1,
+            "itemName": "egg",
             "attributes": []
         }
     ]
