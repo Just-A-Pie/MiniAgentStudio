@@ -2,6 +2,10 @@
 
 **The major author of this tool is Shunqiang Mao, supervised by **[**Tianxing He**](https://cloudygoose.github.io/)**. This project was completed during an internship at Shanghai Qi Zhi Institute.**
 
+
+I gratefully acknowledge Yuyang for generating the sample simulation folder by running his EventGA pipeline on maps created with this project; repository: https://github.com/tian-yuyang/EventGA.
+
+
 This project offers two usage phases:
 
 - **Map Editor** – Visually place, move, delete buildings & objects; manage *container* relationships and optional attributes; persist global layer CSV grids plus placed-instance JSON.
