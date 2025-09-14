@@ -5,6 +5,8 @@
 
 I gratefully acknowledge Yuyang for generating the sample simulation folder by running his EventGA pipeline on maps created with this project; repository: https://github.com/tian-yuyang/EventGA.
 
+The project source files are available at [MiniAgentPro](https://github.com/Just-A-Pie/MiniAgentPro).
+
 
 This project offers two usage phases:
 
