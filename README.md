@@ -15,6 +15,22 @@ This project offers two usage phases:
 
 You only need a **Map Folder** (map resources) and a **Sim Folder** (simulation data). Sample folders are included at the project root so you can try it immediately.
 
+> ⚠️ **This repo uses Git LFS. Do NOT use “Download ZIP”.**
+>
+> If you clone without LFS you’ll get ~1 KB pointer files instead of real binaries.
+
+### Getting the files (Git LFS / Releases)
+
+**Users (one-click download):** go to the **Releases** page and download the attached zip.
+
+**Developers (Git + LFS):**
+```bash
+git clone https://github.com/Just-A-Pie/MiniAgentStudio.git
+cd MiniAgentStudio
+git lfs install
+git lfs pull
+# optional but safe
+git lfs checkout
 ---
 
 ## Ultra‑Brief Overview
