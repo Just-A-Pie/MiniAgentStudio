@@ -7,16 +7,7 @@ I gratefully acknowledge Yuyang for generating the sample simulation folder by r
 
 The project source files are available at [MiniAgentPro](https://github.com/Just-A-Pie/MiniAgentPro).
 
-
-This project offers two usage phases:
-
-- **Map Editor** – Visually place, move, delete buildings & objects; manage *container* relationships and optional attributes; persist global layer CSV grids plus placed-instance JSON.
-- **Simulation** – Load time‑series simulation data (multi‑step agent states + `noteworthy` events), play step by step, inspect each agent’s current state and activity history.
-
-You only need a **Map Folder** (map resources) and a **Sim Folder** (simulation data). Sample folders are included at the project root so you can try it immediately.
-
-> ⚠️ **This repo uses Git LFS. Do NOT use “Download ZIP”.**
->
+> ⚠️ **This repo uses Git LFS. Do NOT use “Download ZIP”.**  
 > If you clone without LFS you’ll get ~1 KB pointer files instead of real binaries.
 
 ### Getting the files (Git LFS / Releases)
@@ -31,13 +22,30 @@ git lfs install
 git lfs pull
 # optional but safe
 git lfs checkout
+```
+
+**Verify:**
+```bash
+git lfs ls-files
+# MiniAgentPro.exe should be MBs, not ~1 KB
+```
+
+**Troubleshooting:** If `git lfs pull` says quota exceeded, ask a maintainer to add LFS data packs or use Releases.
+
+This project offers two usage phases:
+
+- **Map Editor** – Visually place, move, delete buildings & objects; manage *container* relationships and optional attributes; persist global layer CSV grids plus placed-instance JSON.
+- **Simulation** – Load time-series simulation data (multi-step agent states + `noteworthy` events), play step by step, inspect each agent’s current state and activity history.
+
+You only need a **Map Folder** (map resources) and a **Sim Folder** (simulation data). Sample folders are included at the project root so you can try it immediately.
+
 ---
 
 ## Ultra‑Brief Overview
 
 - **Startup Input**: In the startup scene manually enter absolute paths. Map Editor needs only *Map Folder*; Simulation needs *Map Folder* + *Sim Folder*.
 - **Map Editor – 5 Core Actions**: Enter path → enter editor → select resource in toolbar → place / move / delete / edit attributes → save (writes global CSV + instance JSON).
-- **Simulation – 4 Core Actions**: Enter both paths → enter playback → play / change speed / jump step → inspect agents & multi‑line `noteworthy` events + histories.
+- **Simulation – 4 Core Actions**: Enter both paths → enter playback → play / change speed / jump step → inspect agents & multi-line `noteworthy` events + histories.
 - **Minimal Resource Set**: `Map Folder` contains `map/` (background + global CSV + instance JSON), `buildings/`, `objects/`; `Sim Folder` only needs `records_for_sim.json`.
 - **Event Format Quick View**: Each timestamp object in `records_for_sim.json`: `{ "AgentName": { ...state... }, "noteworthy": [{"event": "...", "people": ["A","B"]}, ...] }`.
 
@@ -62,8 +70,7 @@ SampleMap/   ← use as Map Folder
 SampleSim/   ← use as Sim Folder
 ```
 
-> **All paths must be entered manually as absolute paths.**\
-> Map Editor launch requires only the **Map Folder**; Simulation launch requires **both** absolute paths.
+> **All paths must be entered manually as absolute paths.**> Map Editor launch requires only the **Map Folder**; Simulation launch requires **both** absolute paths.
 
 ### Launching the Map Editor
 
@@ -210,6 +217,3 @@ SampleSim/
 - Child objects (if any) can exist with grid `x = -1`, `y = -1` (managed only through a parent container).
 
 ---
-
-
-
