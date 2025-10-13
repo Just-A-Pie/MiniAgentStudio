@@ -2,6 +2,7 @@
 
 **The major author of this tool is Shunqiang Mao, supervised by **[**Tianxing He**](https://cloudygoose.github.io/)**. This project was completed during an internship at Shanghai Qi Zhi Institute.**
 
+**Paper:** https://arxiv.org/abs/2509.13011
 
 I gratefully acknowledge Yuyang for generating the sample simulation folder by running his EventGA pipeline on maps created with this project; repository: https://github.com/tian-yuyang/EventGA.
 
