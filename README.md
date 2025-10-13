@@ -2,11 +2,11 @@
 
 **The major author of this tool is Shunqiang Mao, supervised by **[**Tianxing He**](https://cloudygoose.github.io/)**. This project was completed during an internship at Shanghai Qi Zhi Institute.**
 
-**Paper:** https://arxiv.org/abs/2509.13011
-
 I gratefully acknowledge Yuyang for generating the sample simulation folder by running his EventGA pipeline on maps created with this project; repository: https://github.com/tian-yuyang/EventGA.
 
 The project source files are available at [MiniAgentPro](https://github.com/Just-A-Pie/MiniAgentPro).
+
+**Paper based on this project:** [Social Scene Map Editing & Simulation Playback Tool — arXiv:2509.13011](https://arxiv.org/abs/2509.13011)
 
 > ⚠️ **This repo uses Git LFS. Do NOT use “Download ZIP”.**  
 > If you clone without LFS you’ll get ~1 KB pointer files instead of real binaries.
